@@ -19,16 +19,73 @@ $ python scripts/fetch_kr_financial_data.py --symbol 600519.SS
 
 import os
 import json
+import time
 import argparse
 import requests
 from datetime import datetime
 from dotenv import load_dotenv
 from pathlib import Path
+from functools import wraps
+from typing import Any, Callable
 
 from fmp_playground.fetch_financial_data import (
     FMPFinancialDataFetcher,
     find_company_by_symbol
 )
+
+class TimingStats:
+    """함수 실행 시간을 저장하고 관리하는 클래스."""
+    
+    def __init__(self):
+        self.stats = {}
+        self.total_time = 0
+    
+    def add_timing(self, name: str, elapsed: float) -> None:
+        """실행 시간 정보를 추가.
+        
+        Parameters
+        ----------
+        name : str
+            함수 또는 작업 이름
+        elapsed : float
+            실행 시간 (초)
+        """
+        self.stats[name] = elapsed
+        self.total_time += elapsed
+    
+    def print_summary(self) -> None:
+        """전체 실행 시간 요약을 출력."""
+        print("\n실행 시간 요약:")
+        for name, elapsed in self.stats.items():
+            print(f"- {name}: {elapsed:.2f}초")
+        print(f"- 전체 실행 시간: {self.total_time:.2f}초")
+
+# 전역 타이밍 통계 객체
+timing_stats = TimingStats()
+
+def measure_time(task_name: str) -> Callable:
+    """함수의 실행 시간을 측정하는 데코레이터.
+    
+    Parameters
+    ----------
+    task_name : str
+        작업 이름
+        
+    Returns
+    -------
+    Callable
+        데코레이터 함수
+    """
+    def decorator(func: Callable) -> Callable:
+        @wraps(func)
+        def wrapper(*args: Any, **kwargs: Any) -> Any:
+            start_time = time.time()
+            result = func(*args, **kwargs)
+            elapsed_time = time.time() - start_time
+            timing_stats.add_timing(task_name, elapsed_time)
+            return result
+        return wrapper
+    return decorator
 
 def setup_argparser() -> argparse.ArgumentParser:
     """커맨드라인 인자 파서를 설정.
@@ -43,8 +100,9 @@ def setup_argparser() -> argparse.ArgumentParser:
                        help='조회할 기업의 심볼 (예: 005930.KS, AAPL, 7203.T)')
     return parser
 
-def fetch_financial_data(fetcher: FMPFinancialDataFetcher, symbol: str, period: str = 'annual') -> dict:
-    """특정 기간(연간/분기)의 재무제표 데이터를 조회.
+@measure_time('연간 데이터 조회')
+def fetch_annual_data(fetcher: FMPFinancialDataFetcher, symbol: str) -> dict:
+    """연간 재무제표 데이터를 조회.
     
     Parameters
     ----------
@@ -52,24 +110,83 @@ def fetch_financial_data(fetcher: FMPFinancialDataFetcher, symbol: str, period: 
         데이터 조회 객체
     symbol : str
         기업 심볼
-    period : str, optional
-        데이터 주기 ('annual' 또는 'quarter'), by default 'annual'
         
     Returns
     -------
     dict
         조회된 재무제표 데이터
     """
-    period_text = "연간" if period == 'annual' else "분기별"
-    print(f"\n{period_text} 재무제표 데이터 조회 중...")
-    
+    print("\n연간 재무제표 데이터 조회 중...")
     return {
-        'income_statement': fetcher.get_income_statement(symbol, period=period),
-        'balance_sheet': fetcher.get_balance_sheet(symbol, period=period),
-        'cash_flow': fetcher.get_cash_flow(symbol, period=period),
-        'ratios': fetcher.get_financial_ratios(symbol, period=period),
-        'metrics': fetcher.get_key_metrics(symbol, period=period)
+        'income_statement': fetcher.get_income_statement(symbol, period='annual'),
+        'balance_sheet': fetcher.get_balance_sheet(symbol, period='annual'),
+        'cash_flow': fetcher.get_cash_flow(symbol, period='annual'),
+        'ratios': fetcher.get_financial_ratios(symbol, period='annual'),
+        'metrics': fetcher.get_key_metrics(symbol, period='annual')
     }
+
+@measure_time('분기별 데이터 조회')
+def fetch_quarterly_data(fetcher: FMPFinancialDataFetcher, symbol: str) -> dict:
+    """분기별 재무제표 데이터를 조회.
+    
+    Parameters
+    ----------
+    fetcher : FMPFinancialDataFetcher
+        데이터 조회 객체
+    symbol : str
+        기업 심볼
+        
+    Returns
+    -------
+    dict
+        조회된 재무제표 데이터
+    """
+    print("\n분기별 재무제표 데이터 조회 중...")
+    return {
+        'income_statement': fetcher.get_income_statement(symbol, period='quarter'),
+        'balance_sheet': fetcher.get_balance_sheet(symbol, period='quarter'),
+        'cash_flow': fetcher.get_cash_flow(symbol, period='quarter'),
+        'ratios': fetcher.get_financial_ratios(symbol, period='quarter'),
+        'metrics': fetcher.get_key_metrics(symbol, period='quarter')
+    }
+
+@measure_time('LTM 데이터 조회')
+def fetch_ltm_data(fetcher: FMPFinancialDataFetcher, symbol: str) -> dict:
+    """LTM 재무제표 데이터를 조회.
+    
+    Parameters
+    ----------
+    fetcher : FMPFinancialDataFetcher
+        데이터 조회 객체
+    symbol : str
+        기업 심볼
+        
+    Returns
+    -------
+    dict
+        조회된 재무제표 데이터
+    """
+    print("\nLTM 데이터 조회 중...")
+    return fetcher.get_ltm_data(symbol)
+
+@measure_time('TTM 데이터 조회')
+def fetch_ttm_data(fetcher: FMPFinancialDataFetcher, symbol: str) -> dict:
+    """TTM 재무제표 데이터를 조회.
+    
+    Parameters
+    ----------
+    fetcher : FMPFinancialDataFetcher
+        데이터 조회 객체
+    symbol : str
+        기업 심볼
+        
+    Returns
+    -------
+    dict
+        조회된 재무제표 데이터
+    """
+    print("\nTTM 데이터 조회 중...")
+    return fetcher.get_ttm_data(symbol)
 
 def main():
     """메인 함수."""
@@ -99,18 +216,16 @@ def main():
     
     try:
         # 1. 연간 데이터 조회
-        annual_data = fetch_financial_data(fetcher, args.symbol, 'annual')
+        annual_data = fetch_annual_data(fetcher, args.symbol)
         
         # 2. 분기별 데이터 조회
-        quarterly_data = fetch_financial_data(fetcher, args.symbol, 'quarter')
+        quarterly_data = fetch_quarterly_data(fetcher, args.symbol)
         
         # 3. LTM 데이터 조회
-        print("\nLTM 데이터 조회 중...")
-        ltm_data = fetcher.get_ltm_data(args.symbol)
+        ltm_data = fetch_ltm_data(fetcher, args.symbol)
         
         # 4. TTM 데이터 조회
-        print("\nTTM 데이터 조회 중...")
-        ttm_data = fetcher.get_ttm_data(args.symbol)
+        ttm_data = fetch_ttm_data(fetcher, args.symbol)
         
         # 결과 저장
         output_dir = Path('data/financial_statements')
@@ -130,6 +245,7 @@ def main():
             }, f, ensure_ascii=False, indent=2)
         
         print(f"\n데이터가 성공적으로 저장되었습니다: {output_file}")
+        timing_stats.print_summary()
         
     except requests.exceptions.RequestException as e:
         print(f"API 요청 중 오류 발생: {e}")
