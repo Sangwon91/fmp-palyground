@@ -1,0 +1,2986 @@
+[
+  {
+    "symbol": "243840.KQ",
+    "name": "Shin Heung Energy & Electronics Co.,Ltd.",
+    "price": 4295,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "267980.KQ",
+    "name": "Maeil Dairies Co., Ltd.",
+    "price": 36700,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "289220.KQ",
+    "name": "GIANTSTEP Inc.",
+    "price": 5160,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "230360.KQ",
+    "name": "Echomarketing Co.,Ltd.",
+    "price": 8130,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "013120.KQ",
+    "name": "DongWon Development Co.,Ltd.",
+    "price": 2290,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "365340.KQ",
+    "name": "SungEel HiTech Co., Ltd.",
+    "price": 31550,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "270520.KQ",
+    "name": "Geolit Energy Co.,Ltd.",
+    "price": 1070,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "383310.KQ",
+    "name": "Ecopro HN Co., Ltd.",
+    "price": 25900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "064760.KQ",
+    "name": "Tokai Carbon Korea Co., Ltd.",
+    "price": 84000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "460940.KQ",
+    "name": "P&S Mechanics",
+    "price": 11230,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "101160.KQ",
+    "name": "Worldex Industry & Trading Co., Ltd.",
+    "price": 17100,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "178320.KQ",
+    "name": "Seojin System Co.,Ltd",
+    "price": 19280,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "080580.KQ",
+    "name": "Okins Electronics Co., Ltd.",
+    "price": 4975,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "246710.KQ",
+    "name": "T&R Biofab Co., Ltd.",
+    "price": 4135,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "095610.KQ",
+    "name": "TES Co., Ltd",
+    "price": 19410,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "214370.KQ",
+    "name": "Caregen Co., Ltd.",
+    "price": 26000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "215200.KQ",
+    "name": "MegaStudyEdu Co. Ltd",
+    "price": 42550,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "228670.KQ",
+    "name": "Ray Co., Ltd.",
+    "price": 7930,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "068100.KQ",
+    "name": "KWR",
+    "price": 2815,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "064550.KQ",
+    "name": "Bioneer Corporation",
+    "price": 14800,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "478440.KQ",
+    "name": "Mirae Asset Vision SPAC 6",
+    "price": 1999,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "478780.KQ",
+    "name": "DaishinBalanceNo.18 SPAC",
+    "price": 2075,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "479880.KQ",
+    "name": "Korea No.15 SPAC",
+    "price": 2025,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "091700.KQ",
+    "name": "Partron Co., Ltd.",
+    "price": 6860,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "460470.KQ",
+    "name": "IVIM Technology",
+    "price": 4095,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "373110.KQ",
+    "name": "Xcell Therapeutics, Inc.",
+    "price": 3585,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "393890.KQ",
+    "name": "W-Scope Chungju Plant Co., Ltd.",
+    "price": 7640,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "450330.KQ",
+    "name": "HASS",
+    "price": 8150,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "060280.KQ",
+    "name": "Curexo Inc.",
+    "price": 7930,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "235980.KQ",
+    "name": "MedPacto, Inc.",
+    "price": 3070,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "323990.KQ",
+    "name": "Vaxcell-Bio Therapeutics Co., Ltd.",
+    "price": 8290,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "298540.KQ",
+    "name": "The Nature Holdings Co., Ltd.",
+    "price": 9400,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "474490.KQ",
+    "name": "Yuanta SPAC 16",
+    "price": 1999,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "200130.KQ",
+    "name": "Kolmar BNH Co., Ltd.",
+    "price": 12800,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "216080.KQ",
+    "name": "JETEMA, Co., Ltd.",
+    "price": 7420,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "100120.KQ",
+    "name": "Vieworks Co., Ltd.",
+    "price": 22850,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "126730.KQ",
+    "name": "KORCHIP Inc.",
+    "price": 10620,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "073570.KQ",
+    "name": "Urban Lithium Inc",
+    "price": 740,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "003380.KQ",
+    "name": "Harim Holdings Co., Ltd.",
+    "price": 5520,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "038290.KQ",
+    "name": "Macrogen, Inc.",
+    "price": 15670,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "469900.KQ",
+    "name": "Hana 31 SPAC",
+    "price": 2015,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "036200.KQ",
+    "name": "UNISEM Co., Ltd.",
+    "price": 6000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "031330.KQ",
+    "name": "SAMT Co., Ltd.",
+    "price": 2675,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "366030.KQ",
+    "name": "09WOMEN Co., Ltd.",
+    "price": 4100,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "477380.KQ",
+    "name": "Mirae Asset Vision Special Purpose Acquisition 4 Co.",
+    "price": 2000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "038880.KQ",
+    "name": "iA, Inc.",
+    "price": 208,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "189300.KQ",
+    "name": "Intellian Technologies, Inc.",
+    "price": 35450,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "200670.KQ",
+    "name": "Humedix Co., Ltd.",
+    "price": 38200,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "174900.KQ",
+    "name": "AbClon Inc.",
+    "price": 7750,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "036710.KQ",
+    "name": "Simmtech Holdings Co., Ltd.",
+    "price": 1429,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "094820.KQ",
+    "name": "Iljin Power Co., Ltd.",
+    "price": 8190,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "043150.KQ",
+    "name": "Value Added Technology Co., Ltd.",
+    "price": 21400,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "348210.KQ",
+    "name": "NEXTIN, Inc.",
+    "price": 55700,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "041960.KQ",
+    "name": "Komipharm International Co., Ltd.",
+    "price": 4285,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "221840.KQ",
+    "name": "Hizeaero Co., Ltd.",
+    "price": 1442,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "473370.KQ",
+    "name": "BNK SPAC 2",
+    "price": 2005,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "950110.KQ",
+    "name": "SBI FinTech Solutions Co., Ltd.",
+    "price": 4915,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "453450.KQ",
+    "name": "Gridwiz",
+    "price": 13950,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "067630.KQ",
+    "name": "HLB Life Science Co., Ltd.",
+    "price": 6660,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "078340.KQ",
+    "name": "Com2uS Corporation",
+    "price": 42300,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "044490.KQ",
+    "name": "Taewoong Co.,Ltd",
+    "price": 15400,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "199430.KQ",
+    "name": "KNR System Inc.",
+    "price": 7000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "069080.KQ",
+    "name": "Webzen Inc.",
+    "price": 13650,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "100130.KQ",
+    "name": "Dongkuk Structures & Construction Company Limited",
+    "price": 2195,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "195940.KQ",
+    "name": "HK inno.N Corporation",
+    "price": 35850,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "950220.KQ",
+    "name": "NeoImmuneTech, Inc.",
+    "price": 1089,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "068240.KQ",
+    "name": "Dawonsys Co.,Ltd.",
+    "price": 8350,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "092040.KQ",
+    "name": "Amicogen, Inc.",
+    "price": 3490,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "200780.KQ",
+    "name": "BCWORLD PHARM. Co., Ltd.",
+    "price": 4505,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "225570.KQ",
+    "name": "Nat Games Co.,Ltd.",
+    "price": 12520,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "083790.KQ",
+    "name": "CrystalGenomics, Inc.",
+    "price": 2125,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "216050.KQ",
+    "name": "Incross Co., Ltd.",
+    "price": 6820,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "299660.KQ",
+    "name": "Cellid, Co., Ltd.",
+    "price": 3390,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "145170.KQ",
+    "name": "Nobland",
+    "price": 5700,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "218410.KQ",
+    "name": "RFHIC Corporation",
+    "price": 13900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "482520.KQ",
+    "name": "Kyobo 16 SPAC",
+    "price": 2030,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "474930.KQ",
+    "name": "Shinhan 13th SPAC",
+    "price": 2145,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "039840.KQ",
+    "name": "DIO Corporation",
+    "price": 16890,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "254490.KQ",
+    "name": "Mirai Semiconductors Co., Ltd.",
+    "price": 10380,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "078160.KQ",
+    "name": "MEDIPOST Co., Ltd.",
+    "price": 8260,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "035890.KQ",
+    "name": "Seohee Construction Co., Ltd.",
+    "price": 1527,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "048410.KQ",
+    "name": "Hyundai Bioscience Co., Ltd.",
+    "price": 10320,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "472230.KQ",
+    "name": "SK Securities No.11 SPAC",
+    "price": 2025,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "060150.KQ",
+    "name": "INSUN Environmental New Technology Co., Ltd.",
+    "price": 4760,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "217820.KQ",
+    "name": "Wonik Pne Co., Ltd.",
+    "price": 2060,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "206650.KQ",
+    "name": "EuBiologics Co., Ltd.",
+    "price": 11160,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "458870.KQ",
+    "name": "SEERS",
+    "price": 12580,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "101360.KQ",
+    "name": "Eco&Dream Co., Ltd.",
+    "price": 26750,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "228760.KQ",
+    "name": "Genomictree Inc.",
+    "price": 15450,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "243070.KQ",
+    "name": "Huons Co., Ltd.",
+    "price": 24650,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "038540.KQ",
+    "name": "Sangsangin Co., Ltd.",
+    "price": 1656,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "214180.KQ",
+    "name": "Minwise Co., Ltd",
+    "price": 11600,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "037460.KQ",
+    "name": "Samji Electronics Co., Ltd.",
+    "price": 9430,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "203450.KQ",
+    "name": "Union Community Co., Ltd.",
+    "price": 2940,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "003100.KQ",
+    "name": "SUN KWANG CO.,Ltd.",
+    "price": 15920,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "290670.KQ",
+    "name": "Daebo Magnetic Co.,Ltd.",
+    "price": 10550,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "046890.KQ",
+    "name": "Seoul Semiconductor Co., Ltd.",
+    "price": 6340,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "079810.KQ",
+    "name": "DE&T Co., Ltd.",
+    "price": 5000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "089980.KQ",
+    "name": "Sang-A Frontec Co.,Ltd.",
+    "price": 14690,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "260930.KQ",
+    "name": "CTK Co., Ltd",
+    "price": 4075,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "063080.KQ",
+    "name": "Com2uS Holdings Corporation",
+    "price": 21350,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "273640.KQ",
+    "name": "YM Tech Co., Ltd.",
+    "price": 9810,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "478390.KQ",
+    "name": "KB No.29 SPAC",
+    "price": 2035,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "032190.KQ",
+    "name": "Daou Data Corp.",
+    "price": 11140,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "065660.KQ",
+    "name": "Anterogen.Co.,Ltd.",
+    "price": 19620,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "041830.KQ",
+    "name": "InBody Co.,Ltd",
+    "price": 22500,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "085660.KQ",
+    "name": "Chabiotech Co.,Ltd.",
+    "price": 11120,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "047920.KQ",
+    "name": "HLB Pharmaceutical Co., Ltd",
+    "price": 20250,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "475240.KQ",
+    "name": "Hana 32 SPAC",
+    "price": 2120,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "256150.KQ",
+    "name": "Handok Clean Tech Co., Ltd.",
+    "price": 5860,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "108230.KQ",
+    "name": "TOPTEC Co., Ltd",
+    "price": 4035,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "253840.KQ",
+    "name": "Sugentech Inc.",
+    "price": 5290,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "473000.KQ",
+    "name": "SK Securities No.12 SPAC",
+    "price": 2060,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "229000.KQ",
+    "name": "Gencurix Inc.",
+    "price": 1659,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "036220.KQ",
+    "name": "Osang Healthcare Co.,Ltd",
+    "price": 12980,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "029960.KQ",
+    "name": "Korea Environment Technology Co., LTD.",
+    "price": 8890,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "039200.KQ",
+    "name": "Oscotec Inc.",
+    "price": 29500,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "293780.KQ",
+    "name": "AptaBio Therapeutics Inc.",
+    "price": 7320,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "278280.KQ",
+    "name": "Chunbo Co., Ltd.",
+    "price": 33250,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "063170.KQ",
+    "name": "Seoul Auction Co. Ltd.",
+    "price": 6460,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "206560.KQ",
+    "name": "Dexter Studios Co.,Ltd.",
+    "price": 5970,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "082920.KQ",
+    "name": "VITZROCELL Co.,Ltd.",
+    "price": 24050,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "131090.KQ",
+    "name": "Secuve Co., Ltd.",
+    "price": 809,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "478110.KQ",
+    "name": "Ebest No 6 SPAC",
+    "price": 2015,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "084850.KQ",
+    "name": "ITM Semiconductor Co., Ltd.",
+    "price": 10680,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "068760.KQ",
+    "name": "Celltrion Pharm, Inc.",
+    "price": 49500,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "099190.KQ",
+    "name": "i-SENS, Inc.",
+    "price": 14810,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "033640.KQ",
+    "name": "Nepes Corporation",
+    "price": 6930,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "481890.KQ",
+    "name": "NH Special Purpose Acquisition 31 Company",
+    "price": 2010,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "010170.KQ",
+    "name": "Taihan Fiber Optics Co., Ltd",
+    "price": 520,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "104830.KQ",
+    "name": "WONIK Materials Co.,Ltd.",
+    "price": 18880,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "122450.KQ",
+    "name": "KMH Co. Ltd.",
+    "price": 3980,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "084990.KQ",
+    "name": "Helixmith Co., Ltd",
+    "price": 2365,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "006730.KQ",
+    "name": "Seobu T&D Co., Ltd.",
+    "price": 5500,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "417010.KQ",
+    "name": "NanoTIM Co. Ltd.",
+    "price": 6200,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "114190.KQ",
+    "name": "KANGWON ENERGY Co., Ltd.",
+    "price": 6710,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "206640.KQ",
+    "name": "Boditech Med Inc.",
+    "price": 15830,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "322510.KQ",
+    "name": "JLK, Inc.",
+    "price": 6620,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "131970.KQ",
+    "name": "Tesna Inc.",
+    "price": 24300,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "032820.KQ",
+    "name": "Woori Technology, Inc.",
+    "price": 1723,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "950160.KQ",
+    "name": "Kolon TissueGene, Inc.",
+    "price": 43750,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "461300.KQ",
+    "name": "i-Scream Media CO., LTD.",
+    "price": 13250,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "230240.KQ",
+    "name": "HFR, Inc.",
+    "price": 20700,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "033290.KQ",
+    "name": "COWELL FASHION Co.,Ltd",
+    "price": 1980,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "039440.KQ",
+    "name": "STI Co., Ltd.",
+    "price": 19920,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "059090.KQ",
+    "name": "MiCo Ltd.",
+    "price": 8830,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "115450.KQ",
+    "name": "HLB Therapeutics Co.,Ltd.",
+    "price": 8160,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "086450.KQ",
+    "name": "DongKook Pharmaceutical Co., Ltd.",
+    "price": 15060,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "347850.KQ",
+    "name": "D&D Pharmatech",
+    "price": 45450,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "048530.KQ",
+    "name": "iNtRON Biotechnology, Inc.",
+    "price": 3730,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "035760.KQ",
+    "name": "CJ ENM CO., Ltd.",
+    "price": 60400,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "058470.KQ",
+    "name": "LEENO Industrial Inc.",
+    "price": 186900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "036800.KQ",
+    "name": "Nice Information & Telecommunication, Inc.",
+    "price": 17520,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "319660.KQ",
+    "name": "PSK Inc.",
+    "price": 17960,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "086520.KQ",
+    "name": "Ecopro Co., Ltd.",
+    "price": 52100,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "290650.KQ",
+    "name": "L&C Bio Co., Ltd",
+    "price": 20000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "431190.KQ",
+    "name": "K3I",
+    "price": 4200,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "403870.KQ",
+    "name": "HPSP Co., Ltd.",
+    "price": 24900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "092730.KQ",
+    "name": "NeoPharm CO., LTD.",
+    "price": 13440,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "299030.KQ",
+    "name": "Hana Technology Co., Ltd.",
+    "price": 19290,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "036810.KQ",
+    "name": "Fine Semitech Corp.",
+    "price": 18070,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "049070.KQ",
+    "name": "Intops Co., Ltd.",
+    "price": 15800,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "293490.KQ",
+    "name": "Kakao Games Corp.",
+    "price": 14510,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "420770.KQ",
+    "name": "GigaVis Co., Ltd.",
+    "price": 25350,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "131370.KQ",
+    "name": "RSUPPORT Co., Ltd.",
+    "price": 3210,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "051370.KQ",
+    "name": "Interflex Co., Ltd.",
+    "price": 8000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "122990.KQ",
+    "name": "WiSoL CO.,LTD.",
+    "price": 5830,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "151860.KQ",
+    "name": "KG Eco Technology Services Co., Ltd.",
+    "price": 4865,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "005290.KQ",
+    "name": "Dongjin Semichem Co., Ltd.",
+    "price": 27550,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "088800.KQ",
+    "name": "Ace Technologies Corp.",
+    "price": 645,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "087010.KQ",
+    "name": "Peptron, Inc.",
+    "price": 114900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "025900.KQ",
+    "name": "Dongwha Enterprise Co.,Ltd",
+    "price": 8940,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "237690.KQ",
+    "name": "ST Pharm Co.,Ltd.",
+    "price": 73900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "215600.KQ",
+    "name": "SillaJen, Inc.",
+    "price": 2020,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "082270.KQ",
+    "name": "GemVax&KAEL Co.,Ltd",
+    "price": 32850,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "101490.KQ",
+    "name": "S&S Tech Corporation",
+    "price": 30350,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "035900.KQ",
+    "name": "JYP Entertainment Corporation",
+    "price": 63300,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "053580.KQ",
+    "name": "WebCash Corporation",
+    "price": 17450,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "372170.KQ",
+    "name": "YUNSUNG F&C Co.,Ltd",
+    "price": 32450,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "083310.KQ",
+    "name": "LOT VACUUM Co., Ltd.",
+    "price": 8530,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "462510.KQ",
+    "name": "LAMEDITECH Co., Ltd.",
+    "price": 8170,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "418620.KQ",
+    "name": "E8IGHT",
+    "price": 2590,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "098460.KQ",
+    "name": "Koh Young Technology Inc.",
+    "price": 13510,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "107640.KQ",
+    "name": "HanJung Natural Connectivity System.co.,Ltd",
+    "price": 22600,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "353810.KQ",
+    "name": "EASY BIO,Inc.",
+    "price": 5200,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "200710.KQ",
+    "name": "ADTechnology Co.,Ltd.",
+    "price": 14400,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "238090.KQ",
+    "name": "NDFOS Co., Ltd.",
+    "price": 2030,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "025320.KQ",
+    "name": "Synopex Inc.",
+    "price": 6350,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "160190.KQ",
+    "name": "HIGEN RNM",
+    "price": 27250,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "220100.KQ",
+    "name": "FutureChem Co.,Ltd",
+    "price": 21700,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "035600.KQ",
+    "name": "Kginicis Co.,Ltd",
+    "price": 8440,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "080160.KQ",
+    "name": "Modetour Network Inc.",
+    "price": 10950,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "336570.KQ",
+    "name": "WON TECH Co.,Ltd.",
+    "price": 7390,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "118990.KQ",
+    "name": "Motrex Co., Ltd",
+    "price": 8480,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "199800.KQ",
+    "name": "ToolGen Incorporated",
+    "price": 30550,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "060720.KQ",
+    "name": "KHVATEC Co.,Ltd.",
+    "price": 8840,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "036930.KQ",
+    "name": "JUSUNG ENGINEERING Co., Ltd.",
+    "price": 36200,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "163730.KQ",
+    "name": "Finger, Inc.",
+    "price": 9170,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "089030.KQ",
+    "name": "Techwing, Inc.",
+    "price": 30750,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "263750.KQ",
+    "name": "Pearl Abyss Corp.",
+    "price": 33300,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "137400.KQ",
+    "name": "People & Technology Inc.",
+    "price": 40400,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "183300.KQ",
+    "name": "KoMiCo Ltd.",
+    "price": 56900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "418550.KQ",
+    "name": "JEIO Co., Ltd.",
+    "price": 9560,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "144510.KQ",
+    "name": "GC Cell Corporation",
+    "price": 20950,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "382150.KQ",
+    "name": "Oncocross Co., Ltd.",
+    "price": 9640,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "025980.KQ",
+    "name": "Ananti Inc.",
+    "price": 6180,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "018000.KQ",
+    "name": "Unison Co., Ltd.",
+    "price": 1014,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "023410.KQ",
+    "name": "Eugene Corporation",
+    "price": 3230,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "060250.KQ",
+    "name": "NHN KCP Corp.",
+    "price": 7840,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "099430.KQ",
+    "name": "Bio Plus Co., Ltd",
+    "price": 7200,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "117730.KQ",
+    "name": "T-Robotics.Co.,Ltd.",
+    "price": 10830,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "090710.KQ",
+    "name": "Hyulim ROBOT Co.,Ltd.",
+    "price": 1874,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "065350.KQ",
+    "name": "Shinsung Delta Tech Co.,Ltd.",
+    "price": 59400,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "456010.KQ",
+    "name": "ICTK Co., Ltd.",
+    "price": 13600,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "348340.KQ",
+    "name": "Neuromeka Co., Ltd.",
+    "price": 24650,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "183490.KQ",
+    "name": "Enzychem Lifesciences Corporation",
+    "price": 1042,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "357780.KQ",
+    "name": "Soulbrain Co., Ltd.",
+    "price": 174300,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "006910.KQ",
+    "name": "Bosung Power Technology Co., Ltd",
+    "price": 2470,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "032500.KQ",
+    "name": "Kmw Inc.",
+    "price": 7330,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "199480.KQ",
+    "name": "Bankware Global",
+    "price": 4365,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "115160.KQ",
+    "name": "Humax Co., Ltd.",
+    "price": 1243,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "086900.KQ",
+    "name": "Medy-Tox Inc.",
+    "price": 147100,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "084370.KQ",
+    "name": "Eugene Technology Co.,Ltd.",
+    "price": 34450,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "166090.KQ",
+    "name": "Hana Materials Inc.",
+    "price": 28900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "457600.KQ",
+    "name": "Vect Co., Ltd.",
+    "price": 3065,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "950130.KQ",
+    "name": "Access Bio, Inc.",
+    "price": 4590,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "091120.KQ",
+    "name": "EM-Tech.CO., LTD.",
+    "price": 12600,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "061970.KQ",
+    "name": "LB Semicon Inc.",
+    "price": 3135,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "200230.KQ",
+    "name": "TELCON RF PHARMACEUTICAL. Inc.",
+    "price": 3030,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "226950.KQ",
+    "name": "OliX Pharmaceuticals,Inc",
+    "price": 43000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "437730.KQ",
+    "name": "SAMHYUN",
+    "price": 10210,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "464080.KQ",
+    "name": "SOSLAB",
+    "price": 9970,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "027360.KQ",
+    "name": "Aju IB Investment Co., Ltd.",
+    "price": 2075,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "090360.KQ",
+    "name": "Robostar Co., Ltd.",
+    "price": 22000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "348370.KQ",
+    "name": "Enchem Co., Ltd.",
+    "price": 65100,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "265520.KQ",
+    "name": "Advanced Process Systems Corporation",
+    "price": 16790,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "281740.KQ",
+    "name": "Lake Materials Co., Ltd.",
+    "price": 13410,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "464280.KQ",
+    "name": "TDSPHARM",
+    "price": 11940,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "214450.KQ",
+    "name": "PharmaResearch Co., Ltd.",
+    "price": 335500,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "067160.KQ",
+    "name": "AfreecaTV Co., Ltd.",
+    "price": 85600,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "141080.KQ",
+    "name": "LegoChem Biosciences, Inc.",
+    "price": 95800,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "102710.KQ",
+    "name": "ENF Technology Co., Ltd.",
+    "price": 25300,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "036540.KQ",
+    "name": "SFA Semicon Co., Ltd.",
+    "price": 2855,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "461030.KQ",
+    "name": "IMBdx",
+    "price": 9150,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "256840.KQ",
+    "name": "BNC Korea Co., Ltd.",
+    "price": 3880,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "456070.KQ",
+    "name": "Encell Co. Ltd.",
+    "price": 13920,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "039030.KQ",
+    "name": "EO Technics Co., Ltd.",
+    "price": 125100,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "019210.KQ",
+    "name": "YG-1 Co., Ltd.",
+    "price": 5480,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "023160.KQ",
+    "name": "Tae Kwang Corporation",
+    "price": 21200,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "058610.KQ",
+    "name": "SPG Co., Ltd.",
+    "price": 21750,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "358570.KQ",
+    "name": "GI Innovation, Inc.",
+    "price": 12720,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "036830.KQ",
+    "name": "Soulbrain Holdings Co., Ltd.",
+    "price": 28000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "222800.KQ",
+    "name": "SIMMTECH Co., Ltd.",
+    "price": 18100,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "476060.KQ",
+    "name": "Onconic Therapeutics",
+    "price": 24500,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "295310.KQ",
+    "name": "HVM",
+    "price": 18600,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "095500.KQ",
+    "name": "MNtech Co., Ltd.",
+    "price": 8020,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "052020.KQ",
+    "name": "STCube, Inc.",
+    "price": 6270,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "112040.KQ",
+    "name": "Wemade Co.,Ltd.",
+    "price": 29850,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "476080.KQ",
+    "name": "M eighty-three Co. Ltd.",
+    "price": 13090,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "058820.KQ",
+    "name": "CMG Pharmaceutical Co., Ltd.",
+    "price": 2095,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "253450.KQ",
+    "name": "Studio Dragon Corporation",
+    "price": 50600,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "121600.KQ",
+    "name": "Advanced Nano Products Co., Ltd.",
+    "price": 54700,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "056080.KQ",
+    "name": "Yujin Robot Co., Ltd.",
+    "price": 6960,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "477530.KQ",
+    "name": "Korea No.14 Special Purpose Acquisition Co., Ltd.",
+    "price": 3150,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "074600.KQ",
+    "name": "Wonik QnC Corporation",
+    "price": 17690,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "441270.KQ",
+    "name": "Fine M-Tec CO.,LTD.",
+    "price": 4520,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "328130.KQ",
+    "name": "Lunit Inc.",
+    "price": 48600,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "044340.KQ",
+    "name": "Winix Inc.",
+    "price": 5630,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "084110.KQ",
+    "name": "Huons Global Co., Ltd.",
+    "price": 40500,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "053030.KQ",
+    "name": "BINEX Co., Ltd.",
+    "price": 14250,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "214150.KQ",
+    "name": "CLASSYS Inc.",
+    "price": 60700,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "101730.KQ",
+    "name": "Wemade Max Co., Ltd.",
+    "price": 7030,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "095660.KQ",
+    "name": "NEOWIZ",
+    "price": 22800,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "294570.KQ",
+    "name": "COOCON Corporation",
+    "price": 20500,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "045390.KQ",
+    "name": "DAEA TI Co., Ltd.",
+    "price": 3385,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "338220.KQ",
+    "name": "Vuno Inc.",
+    "price": 18250,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "204270.KQ",
+    "name": "JNTC Co., Ltd.",
+    "price": 14170,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "196170.KQ",
+    "name": "ALTEOGEN Inc.",
+    "price": 363000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "082210.KQ",
+    "name": "Optrontec Inc.",
+    "price": 1244,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "298380.KQ",
+    "name": "ABL Bio Inc.",
+    "price": 34050,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "014620.KQ",
+    "name": "Sung Kwang Bend Co.,Ltd.",
+    "price": 24550,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "158430.KQ",
+    "name": "ATON Inc.",
+    "price": 5390,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "041190.KQ",
+    "name": "Woori Technology Investment Co., Ltd",
+    "price": 6190,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "086390.KQ",
+    "name": "UniTest Incorporation",
+    "price": 10060,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "299900.KQ",
+    "name": "Wysiwyg Studios Co., Ltd.",
+    "price": 1034,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "094170.KQ",
+    "name": "Dongwoon Anatech Co., Ltd.",
+    "price": 20450,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "240810.KQ",
+    "name": "Wonik Ips Co., Ltd",
+    "price": 23050,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "015750.KQ",
+    "name": "Sungwoo Hitech Co., Ltd.",
+    "price": 5330,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "304100.KQ",
+    "name": "Saltlux Inc.",
+    "price": 24250,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "272290.KQ",
+    "name": "INNOX Advanced Materials Co.,Ltd.",
+    "price": 21700,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "277810.KQ",
+    "name": "Rainbow Robotics Co.,Ltd.",
+    "price": 266000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "376300.KQ",
+    "name": "Dear U Co., Ltd.",
+    "price": 43350,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "310210.KQ",
+    "name": "Voronoi, Inc.",
+    "price": 116500,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "088340.KQ",
+    "name": "URACLE",
+    "price": 24100,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "050890.KQ",
+    "name": "SOLiD, Inc.",
+    "price": 6470,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "452200.KQ",
+    "name": "Mintech",
+    "price": 3885,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "030530.KQ",
+    "name": "Wonik Holdings Co., Ltd",
+    "price": 3675,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "000250.KQ",
+    "name": "Sam Chun Dang Pharm. Co., Ltd",
+    "price": 185700,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "108860.KQ",
+    "name": "Selvas AI Inc.",
+    "price": 11600,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "215000.KQ",
+    "name": "GOLFZON Co., Ltd.",
+    "price": 60500,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "056190.KQ",
+    "name": "SFA Engineering Corporation",
+    "price": 20500,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "028300.KQ",
+    "name": "HLB Co., Ltd.",
+    "price": 57600,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "213420.KQ",
+    "name": "DukSan Neolux Co.,Ltd",
+    "price": 26400,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "053800.KQ",
+    "name": "AhnLab, Inc.",
+    "price": 93900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "222080.KQ",
+    "name": "Creative & Innovative System Corporation",
+    "price": 7250,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "078600.KQ",
+    "name": "Daejoo Electronic Materials Co., Ltd.",
+    "price": 85000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "094480.KQ",
+    "name": "GalaxiaMoneytree Co.,Ltd",
+    "price": 8150,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "030520.KQ",
+    "name": "Hancom Inc.",
+    "price": 18610,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "041510.KQ",
+    "name": "SM Entertainment Co., Ltd.",
+    "price": 115900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "102940.KQ",
+    "name": "Kolon Life Science Inc.",
+    "price": 27250,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "179900.KQ",
+    "name": "UTI Inc.",
+    "price": 20900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "064290.KQ",
+    "name": "INTEKPLUS Co., Ltd.",
+    "price": 9120,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "052400.KQ",
+    "name": "Kona I Co.,Ltd.",
+    "price": 35100,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "194480.KQ",
+    "name": "Devsisters corporation",
+    "price": 40600,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "247540.KQ",
+    "name": "Ecopro BM. Co., Ltd.",
+    "price": 98100,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "058970.KQ",
+    "name": "EMRO. Incorporated",
+    "price": 49650,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "455900.KQ",
+    "name": "ANGEL",
+    "price": 22850,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "007390.KQ",
+    "name": "NatureCell Co.,Ltd.",
+    "price": 29600,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "140860.KQ",
+    "name": "Park Systems Corp.",
+    "price": 201500,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "033100.KQ",
+    "name": "Cheryong Electric Co.,Ltd.",
+    "price": 30600,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "140410.KQ",
+    "name": "Mezzion Pharma Co.,Ltd.",
+    "price": 35800,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "040910.KQ",
+    "name": "ICD Co., Ltd.",
+    "price": 4170,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "067310.KQ",
+    "name": "HANA Micron Inc.",
+    "price": 11300,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "122870.KQ",
+    "name": "YG Entertainment Inc.",
+    "price": 63300,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "473050.KQ",
+    "name": "Yuanta SPAC 15",
+    "price": 1997,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "036630.KQ",
+    "name": "Sejong Telecom, Inc.",
+    "price": 448,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "035080.KQ",
+    "name": "Interpark Co., Ltd.",
+    "price": 13190,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "035810.KQ",
+    "name": "EASY HOLDINGS Co., Ltd.",
+    "price": 3035,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "108490.KQ",
+    "name": "ROBOTIS Co., Ltd.",
+    "price": 33100,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "360070.KQ",
+    "name": "TOP MATERIAL Co., Ltd",
+    "price": 25450,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "049950.KQ",
+    "name": "meerecompany Incorporated",
+    "price": 18020,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "089010.KQ",
+    "name": "CHEMTRONICS.CO.,Ltd.",
+    "price": 22450,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "018290.KQ",
+    "name": "VT Co., Ltd.",
+    "price": 33550,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "084650.KQ",
+    "name": "LabGenomics Co., Ltd.",
+    "price": 2175,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "095700.KQ",
+    "name": "Genexine, Inc.",
+    "price": 4015,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "360350.KQ",
+    "name": "COXEM",
+    "price": 6920,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "064260.KQ",
+    "name": "Danal Co., Ltd.",
+    "price": 2650,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "145020.KQ",
+    "name": "Hugel, Inc.",
+    "price": 351000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "214680.KQ",
+    "name": "DRTECH Corporation",
+    "price": 1851,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "009520.KQ",
+    "name": "POSCO M-TECH Co., Ltd.",
+    "price": 12300,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "095340.KQ",
+    "name": "ISC Co., Ltd.",
+    "price": 49900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "096530.KQ",
+    "name": "Seegene, Inc.",
+    "price": 22700,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "205470.KQ",
+    "name": "Humasis Co. Ltd.",
+    "price": 1407,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "477760.KQ",
+    "name": "DB Finance No.12 SPAC",
+    "price": 2075,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "475250.KQ",
+    "name": "Hana 33 SPAC",
+    "price": 2115,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "474660.KQ",
+    "name": "Shinhan 12th SPAC",
+    "price": 2060,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "477470.KQ",
+    "name": "Mirae Asset Vision SPAC 5",
+    "price": 2035,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "473950.KQ",
+    "name": "SK Securities No.13 SPAC",
+    "price": 2025,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "468760.KQ",
+    "name": "Eugene SPAC X",
+    "price": 2095,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "477340.KQ",
+    "name": "HMCIB No.7 SPECIAL PURPOSE ACQUISITION COMPANY",
+    "price": 1990,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "412540.KQ",
+    "name": "Jeil M&S Co., Ltd",
+    "price": 3935,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "241820.KQ",
+    "name": "PCL, Inc.",
+    "price": 302,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "294090.KQ",
+    "name": "EOFLOW Co.,Ltd.",
+    "price": 1490,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "182400.KQ",
+    "name": "NKMAX CO., Ltd.",
+    "price": 2020,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "036490.KQ",
+    "name": "SK Materials Co., Ltd.",
+    "price": 402900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "066970.KQ",
+    "name": "L&F Co., Ltd.",
+    "price": 82700,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "108320.KQ",
+    "name": "LX Semicon Co., Ltd.",
+    "price": 63100,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "476470.KQ",
+    "name": "KB No.28 SPAC",
+    "price": 2095,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "034230.KQ",
+    "name": "Paradise Co., Ltd.",
+    "price": 10240,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "204630.KQ",
+    "name": "Studio Santa Claus Entertainment Co., Ltd.",
+    "price": 155,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "222810.KQ",
+    "name": "Setopia Co.,Ltd.",
+    "price": 1080,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "031390.KQ",
+    "name": "Green Cross Cell Corporation",
+    "price": 38550,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "048260.KQ",
+    "name": "Osstem Implant Co., Ltd.",
+    "price": 1901000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "014200.KQ",
+    "name": "KANGLIM Co., Ltd",
+    "price": 1006,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "085370.KQ",
+    "name": "Lutronic Corporation",
+    "price": 36700,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "091990.KQ",
+    "name": "Celltrion Healthcare Co., Ltd.",
+    "price": 75900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "022100.KQ",
+    "name": "Posco Dx Company Ltd.",
+    "price": 74200,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "287410.KQ",
+    "name": "Jeisys Medical Inc.",
+    "price": 12900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "268600.KQ",
+    "name": "Cellivery Therapeutics, Inc.",
+    "price": 6680,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "078130.KQ",
+    "name": "Kuk-Il Paper Mfg Co.,Ltd",
+    "price": 800,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "119610.KQ",
+    "name": "Interojo Inc.",
+    "price": 24900,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "030190.KQ",
+    "name": "NICE Information Service Co., Ltd.",
+    "price": 12000,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  },
+  {
+    "symbol": "090460.KQ",
+    "name": "BH Co., Ltd.",
+    "price": 28400,
+    "exchange": "KOSDAQ",
+    "exchangeShortName": "KOE",
+    "type": "stock"
+  }
+]

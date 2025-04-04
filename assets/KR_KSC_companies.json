@@ -1,0 +1,8162 @@
+[
+  {
+    "symbol": "005389.KS",
+    "name": "Hyundai Motor Company",
+    "price": 142000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005360.KS",
+    "name": "Monami Co., Ltd.",
+    "price": 1998,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001620.KS",
+    "name": "Kbi Dongkook Ind.Co.,Ltd.",
+    "price": 487,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "035000.KS",
+    "name": "GIIR Inc.",
+    "price": 6820,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "017900.KS",
+    "name": "AUK Corp.",
+    "price": 1717,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005320.KS",
+    "name": "Kukdong Corporation",
+    "price": 431,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "023350.KS",
+    "name": "Korea Engineering Consultants Corp.",
+    "price": 5550,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001525.KS",
+    "name": "Tongyang Inc.",
+    "price": 4075,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "030720.KS",
+    "name": "Dong Won Fisheries Co., Ltd.",
+    "price": 5000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "204320.KS",
+    "name": "Mando Corporation",
+    "price": 36850,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "084670.KS",
+    "name": "Dongyang Express Corp.",
+    "price": 6990,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "047040.KS",
+    "name": "Daewoo Engineering & Construction Co., Ltd.",
+    "price": 3190,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008870.KS",
+    "name": "Kumbi Corporation",
+    "price": 56800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011390.KS",
+    "name": "Busan Industrial Co., Ltd.",
+    "price": 77300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "030610.KS",
+    "name": "Kyobo Securities Co ., Ltd",
+    "price": 5840,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002760.KS",
+    "name": "Bolak Company Limited",
+    "price": 1027,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000700.KS",
+    "name": "Eusu Holdings Co., Ltd.",
+    "price": 5290,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "029780.KS",
+    "name": "Samsung Card Co., Ltd.",
+    "price": 40550,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "090370.KS",
+    "name": "Metalabs Co., Ltd.",
+    "price": 1468,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "102260.KS",
+    "name": "Dongsung Chemical Co., Ltd.",
+    "price": 3685,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "229640.KS",
+    "name": "LS Cable & System Asia Ltd.",
+    "price": 29300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002360.KS",
+    "name": "SH Energy & Chemical Co., Ltd.",
+    "price": 448,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004060.KS",
+    "name": "SG Corporation",
+    "price": 318,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006650.KS",
+    "name": "Korea Petrochemical Ind. Co., Ltd.",
+    "price": 88900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "055490.KS",
+    "name": "Tapex Co., Ltd.",
+    "price": 13400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "089470.KS",
+    "name": "HDC Hyundai Engineering Plastics Co., Ltd.",
+    "price": 3410,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002710.KS",
+    "name": "TCC Steel Corp.",
+    "price": 21250,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "095720.KS",
+    "name": "Woongjin Thinkbig Co., Ltd.",
+    "price": 1486,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "092200.KS",
+    "name": "DAE-IL Corporation",
+    "price": 3925,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "123690.KS",
+    "name": "Hankook Cosmetics Co., Ltd.",
+    "price": 6830,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008355.KS",
+    "name": "Namsun Aluminum Co., Ltd.",
+    "price": 13750,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "049800.KS",
+    "name": "Woojin Plaimm Co., Ltd.",
+    "price": 2090,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "111770.KS",
+    "name": "Youngone Corporation",
+    "price": 44100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000215.KS",
+    "name": "DL Holdings CO., LTD.",
+    "price": 19370,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "00680K.KS",
+    "name": "Mirae Asset Securities Co. Ltd.",
+    "price": 4070,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014530.KS",
+    "name": "Kukdong Oil & Chemicals Co.,Ltd",
+    "price": 3440,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005740.KS",
+    "name": "CROWNHAITAI Holdings Co.,Ltd.",
+    "price": 5520,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "013870.KS",
+    "name": "GMB Korea Corp.",
+    "price": 3715,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "03473K.KS",
+    "name": "SK Inc.",
+    "price": 115000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "128820.KS",
+    "name": "Daesung Industrial Co., Ltd.",
+    "price": 3160,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003690.KS",
+    "name": "Korean Reinsurance Company",
+    "price": 7710,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001270.KS",
+    "name": "BOOKOOK Securities Co., Ltd.",
+    "price": 25700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004360.KS",
+    "name": "Sebang Co., Ltd",
+    "price": 11090,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007810.KS",
+    "name": "Korea Circuit Co., Ltd.",
+    "price": 10040,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001770.KS",
+    "name": "Shin Hwa Dynamics Co., Ltd.",
+    "price": 15010,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002390.KS",
+    "name": "HANDOK Inc.",
+    "price": 11260,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "015860.KS",
+    "name": "ILJIN Holdings Co., Ltd.",
+    "price": 3540,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "015890.KS",
+    "name": "Taekyung Industry.Co., Ltd.",
+    "price": 4690,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "016090.KS",
+    "name": "Daehyun Co.,Ltd.",
+    "price": 1983,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "134790.KS",
+    "name": "Sidiz.Inc.",
+    "price": 26700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "280360.KS",
+    "name": "Lotte Confectionery Co., Ltd.",
+    "price": 116500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000390.KS",
+    "name": "Samhwa Paints Industrial Co., Ltd.",
+    "price": 5740,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "330590.KS",
+    "name": "LOTTE REIT Co., Ltd.",
+    "price": 3495,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002690.KS",
+    "name": "Dong Il Steel Mfg Co.,Ltd",
+    "price": 1201,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004985.KS",
+    "name": "Sungshin Cement Co., Ltd",
+    "price": 10980,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "025890.KS",
+    "name": "Hankook Steel Co., Ltd.",
+    "price": 1776,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002200.KS",
+    "name": "Korea Export Packaging Industrial Co.,Ltd",
+    "price": 2715,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "024890.KS",
+    "name": "DAEWON Chemical Co., Ltd.",
+    "price": 907,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "123890.KS",
+    "name": "Korea Asset In Trust Co., Ltd.",
+    "price": 2330,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "227840.KS",
+    "name": "HYUNDAI CORPORATION HOLDINGS Co., Ltd.",
+    "price": 10450,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "089860.KS",
+    "name": "LOTTE rental co.,ltd.",
+    "price": 28350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "013700.KS",
+    "name": "CAMUS ENGINEERING & CONSTRUCTION Inc.",
+    "price": 1233,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001067.KS",
+    "name": "JW Pharmaceutical Corporation",
+    "price": 60500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "00279K.KS",
+    "name": "AMOREPACIFIC Group",
+    "price": 17350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001500.KS",
+    "name": "Hyundai Motor Securities Co., Ltd.",
+    "price": 5490,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "338100.KS",
+    "name": "NH Prime REIT Co., Ltd.",
+    "price": 4465,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007160.KS",
+    "name": "Sajo Industries Company Limited",
+    "price": 33650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "381970.KS",
+    "name": "K Car Co., Ltd.",
+    "price": 13650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003300.KS",
+    "name": "Hanil Holdings Co., Ltd.",
+    "price": 13840,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "272450.KS",
+    "name": "Jin Air Co., Ltd.",
+    "price": 9250,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005010.KS",
+    "name": "Husteel Co., Ltd.",
+    "price": 4870,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005250.KS",
+    "name": "Green Cross Holdings Corporation",
+    "price": 13250,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "072710.KS",
+    "name": "Nongshim Holdings Co.,Ltd.",
+    "price": 64200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "025000.KS",
+    "name": "KPX Chemical Co.,Ltd.",
+    "price": 42850,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "28513K.KS",
+    "name": "SK Chemicals Co.,Ltd",
+    "price": 18800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004255.KS",
+    "name": "NPC Co., Ltd.",
+    "price": 2385,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002900.KS",
+    "name": "TYM Corporation",
+    "price": 4400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009155.KS",
+    "name": "Samsung Electro-Mechanics Co., Ltd.",
+    "price": 54000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006120.KS",
+    "name": "SK Discovery Co., Ltd.",
+    "price": 40850,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006280.KS",
+    "name": "Green Cross Corporation",
+    "price": 125200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006390.KS",
+    "name": "Hanil Hyundai Cement Co., Ltd",
+    "price": 14660,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009835.KS",
+    "name": "Hanwha Solutions Corporation",
+    "price": 18740,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "210980.KS",
+    "name": "SK D&D Co. Ltd.",
+    "price": 7950,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "069640.KS",
+    "name": "Hansaemk Co.,Ltd.",
+    "price": 1133,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004270.KS",
+    "name": "Namsung Corp.",
+    "price": 1033,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "357250.KS",
+    "name": "Miraeasset Maps REIT 1 Co., Ltd.",
+    "price": 2680,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003090.KS",
+    "name": "Daewoong Co., Ltd.",
+    "price": 18970,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003120.KS",
+    "name": "Ilsung Pharmaceuticals Co., Ltd.",
+    "price": 15100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "092230.KS",
+    "name": "KPX Holdings Co.,Ltd.",
+    "price": 55100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "33626L.KS",
+    "name": "Doosan Fuel Cell Co., Ltd.",
+    "price": 7450,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "336370.KS",
+    "name": "Solus Advanced Materials Co. Ltd.",
+    "price": 7500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "33637K.KS",
+    "name": "Solus Advanced Materials Co. Ltd.",
+    "price": 1768,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004415.KS",
+    "name": "Seoul Food Industrial.Co.,Ltd",
+    "price": 1199,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004430.KS",
+    "name": "Songwon Industrial Co., Ltd.",
+    "price": 11500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005500.KS",
+    "name": "Samjin Pharmaceuticals Co., Ltd.",
+    "price": 17340,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "052690.KS",
+    "name": "KEPCO Engineering & Construction Company, Inc.",
+    "price": 56100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "058730.KS",
+    "name": "Development Advance Solution Co.,Ltd.",
+    "price": 2915,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003480.KS",
+    "name": "Hanjin Heavy Industries & Construction Holdings Co., Ltd.",
+    "price": 3675,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007980.KS",
+    "name": "Pan-Pacific Co., Ltd.",
+    "price": 1352,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008420.KS",
+    "name": "Moonbaesteel Co.,Ltd",
+    "price": 2360,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "016590.KS",
+    "name": "Shindaeyang Paper Co., Ltd.",
+    "price": 7180,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000325.KS",
+    "name": "NOROO Holdings Co., Ltd.",
+    "price": 28650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004450.KS",
+    "name": "Samhwa Crown & Closure Co., Ltd",
+    "price": 30100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004545.KS",
+    "name": "KleanNara Co., Ltd.",
+    "price": 12970,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "021050.KS",
+    "name": "Seowon Co., Ltd.",
+    "price": 1242,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "071950.KS",
+    "name": "KOAS Co., Ltd.",
+    "price": 8800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "019680.KS",
+    "name": "Daekyo Co., Ltd.",
+    "price": 2120,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "107590.KS",
+    "name": "Miwon Holdings Co., Ltd.",
+    "price": 72900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001360.KS",
+    "name": "SAMSUNG PHARM. Co., LTD.",
+    "price": 1467,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002025.KS",
+    "name": "Kolon Corporation",
+    "price": 13580,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001020.KS",
+    "name": "PaperCorea Inc.",
+    "price": 720,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "079160.KS",
+    "name": "CJ CGV Co., Ltd.",
+    "price": 4680,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "025530.KS",
+    "name": "SJM Holdings Co.,Ltd.",
+    "price": 3070,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001795.KS",
+    "name": "TS Corporation",
+    "price": 2310,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "027970.KS",
+    "name": "seha corporation",
+    "price": 776,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "078935.KS",
+    "name": "GS Holdings Corp.",
+    "price": 36150,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "267850.KS",
+    "name": "Asiana IDT, Inc.",
+    "price": 10490,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "058650.KS",
+    "name": "SeAH Holdings Corporation",
+    "price": 91200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "016380.KS",
+    "name": "KG Dongbu Steel Co.,Ltd.",
+    "price": 5590,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "403550.KS",
+    "name": "SOCAR Inc.",
+    "price": 13860,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002210.KS",
+    "name": "Dong Sung Bio Pharm.Co.,Ltd.",
+    "price": 3815,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "017810.KS",
+    "name": "Pulmuone Co., Ltd.",
+    "price": 15200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009310.KS",
+    "name": "Charm Engineering Co.,Ltd.",
+    "price": 298,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000087.KS",
+    "name": "HITEJINRO Co., Ltd.",
+    "price": 15180,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "027740.KS",
+    "name": "Maniker.Co.,Ltd",
+    "price": 868,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "102460.KS",
+    "name": "REYON Pharmaceutical Co., Ltd.",
+    "price": 10690,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "034590.KS",
+    "name": "Incheon City Gas Co., Ltd.",
+    "price": 24250,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "084680.KS",
+    "name": "E-World Co.,Ltd.",
+    "price": 1288,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "047400.KS",
+    "name": "Union Materials Corp.",
+    "price": 2030,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "088260.KS",
+    "name": "E Kocref Cr-Reit",
+    "price": 4295,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005257.KS",
+    "name": "Green Cross Holdings Corporation",
+    "price": 19800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006060.KS",
+    "name": "HWASEUNG Industries Co.,Ltd.",
+    "price": 4785,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002310.KS",
+    "name": "Asia Paper Manufacturing.Co.,Ltd",
+    "price": 6710,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000725.KS",
+    "name": "Hyundai Engineering & Construction Co., Ltd.",
+    "price": 46400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000670.KS",
+    "name": "Young Poong Corporation",
+    "price": 378500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004960.KS",
+    "name": "HANSHIN Engineering & Construction Co., Ltd.",
+    "price": 6280,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "031440.KS",
+    "name": "SHINSEGAE FOOD Inc.",
+    "price": 30400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "200880.KS",
+    "name": "Seoyon E-Hwa Co., Ltd.",
+    "price": 11910,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "460860.KS",
+    "name": "Dongkuk Steel Mill Company Limited",
+    "price": 9220,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001560.KS",
+    "name": "Cheil Grinding Wheel Ind. Co., Ltd.",
+    "price": 8830,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002795.KS",
+    "name": "AMOREPACIFIC Group",
+    "price": 8760,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "081000.KS",
+    "name": "Iljin Diamond Co.,Ltd",
+    "price": 11070,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006570.KS",
+    "name": "Daelim Trading Co., Ltd.",
+    "price": 2515,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "023800.KS",
+    "name": "INZI Controls Co.,Ltd.",
+    "price": 5650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "035510.KS",
+    "name": "SHINSEGAE Information & Communication Co., LTD",
+    "price": 12170,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "100220.KS",
+    "name": "Visang Education Inc",
+    "price": 5130,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "096775.KS",
+    "name": "SK Innovation Co., Ltd.",
+    "price": 71000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001520.KS",
+    "name": "Tongyang Inc.",
+    "price": 542,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "075180.KS",
+    "name": "Saeron Automotive Corporation",
+    "price": 3370,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "036580.KS",
+    "name": "Farmsco",
+    "price": 2000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "051600.KS",
+    "name": "KEPCO Plant Service & Engineering Co.,Ltd.",
+    "price": 40250,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "071320.KS",
+    "name": "Korea District Heating Corp.",
+    "price": 48000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "071970.KS",
+    "name": "STX Heavy Industries Co., Ltd.",
+    "price": 27900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "094800.KS",
+    "name": "Mirae Asset Asia Pacific Real Estate 1 Investment Company",
+    "price": 4160,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "095570.KS",
+    "name": "AJ Networks Co.,Ltd.",
+    "price": 3695,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014830.KS",
+    "name": "UNID Company Ltd.",
+    "price": 73900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "264900.KS",
+    "name": "Crown Confectionery Co., Ltd.",
+    "price": 8130,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "026890.KS",
+    "name": "STIC Investments, Inc.",
+    "price": 9190,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000140.KS",
+    "name": "Hitejinro Holdings Co., Ltd.",
+    "price": 8430,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000155.KS",
+    "name": "Doosan Corporation",
+    "price": 128000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001790.KS",
+    "name": "TS Corporation",
+    "price": 2785,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009680.KS",
+    "name": "Motonic Corporation",
+    "price": 9080,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "029460.KS",
+    "name": "KC Co., Ltd.",
+    "price": 18120,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003535.KS",
+    "name": "Hanwha Investment & Securities Co., Ltd.",
+    "price": 5500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007815.KS",
+    "name": "Korea Circuit Co., Ltd.",
+    "price": 5790,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008250.KS",
+    "name": "Eagon Industrial Co., Ltd.",
+    "price": 5140,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008700.KS",
+    "name": "Anam Electronics Co.,Ltd.",
+    "price": 1381,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "096760.KS",
+    "name": "JW Holdings Corporation",
+    "price": 3005,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000640.KS",
+    "name": "Dong-A Socio Holdings Co., Ltd.",
+    "price": 100800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "069460.KS",
+    "name": "Daeho Al Co.,Ltd.",
+    "price": 1588,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002150.KS",
+    "name": "Dohwa Engineering Co., Ltd.",
+    "price": 6550,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "033270.KS",
+    "name": "Korea United Pharm Inc.",
+    "price": 19200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "042670.KS",
+    "name": "Hyundai Doosan Infracore Co., Ltd.",
+    "price": 7920,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011690.KS",
+    "name": "Y2 Solution CO.,LTD",
+    "price": 2100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001510.KS",
+    "name": "SK Securities Co., Ltd.",
+    "price": 447,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009190.KS",
+    "name": "Daiyang Metal Co., Ltd.",
+    "price": 1362,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000225.KS",
+    "name": "Yuyu Pharma, Inc.",
+    "price": 4720,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "126560.KS",
+    "name": "Hyundai Futurenet Co., Ltd",
+    "price": 2985,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007280.KS",
+    "name": "Korea Steel Co., Ltd.",
+    "price": 1738,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "017390.KS",
+    "name": "Seoul City Gas Co., Ltd.",
+    "price": 48600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003540.KS",
+    "name": "Daishin Securities Co., Ltd.",
+    "price": 16230,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004700.KS",
+    "name": "Chokwang Leather Co.,Ltd.",
+    "price": 51200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002720.KS",
+    "name": "Kukje Pharma Co., Ltd.",
+    "price": 4505,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004910.KS",
+    "name": "Chokwang Paint Co., Ltd.",
+    "price": 5470,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005440.KS",
+    "name": "Hyundai Green Food Co.,Ltd.",
+    "price": 5170,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003080.KS",
+    "name": "Sung Bo Chemicals Co., LTD",
+    "price": 2415,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014825.KS",
+    "name": "Dongwon Systems Corporation",
+    "price": 16860,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "069620.KS",
+    "name": "Daewoong pharmaceutical Co.,Ltd",
+    "price": 118800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "481850.KS",
+    "name": "Shinhan Global Active REIT Co., Ltd.",
+    "price": 1549,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011810.KS",
+    "name": "STX Corporation",
+    "price": 3650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "012030.KS",
+    "name": "DB Inc.",
+    "price": 1223,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "024900.KS",
+    "name": "Duckyang Ind. Co., Ltd.",
+    "price": 2725,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "122900.KS",
+    "name": "iMarketKorea Inc.",
+    "price": 7720,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "134380.KS",
+    "name": "Miwon Chemicals Co., Ltd.",
+    "price": 79200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "161000.KS",
+    "name": "Aekyungchemical Co., Ltd.",
+    "price": 6630,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001430.KS",
+    "name": "SeAH Besteel Holdings Corporation",
+    "price": 16900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011210.KS",
+    "name": "HYUNDAI WIA Corporation",
+    "price": 42800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "012200.KS",
+    "name": "Keyang Electric Machinery Co., Ltd.",
+    "price": 1429,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "024090.KS",
+    "name": "DCM Corp.",
+    "price": 11570,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "33626K.KS",
+    "name": "Doosan Fuel Cell Co., Ltd.",
+    "price": 4300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001800.KS",
+    "name": "ORION Holdings Corp.",
+    "price": 16340,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005430.KS",
+    "name": "Korea Airport Service Co.,Ltd.",
+    "price": 47500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "051630.KS",
+    "name": "ChinYang Chemical Corporation",
+    "price": 4095,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "053210.KS",
+    "name": "KT Skylife Co., Ltd.",
+    "price": 4410,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010660.KS",
+    "name": "Hwacheon Machinery Co., Ltd.",
+    "price": 3350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001630.KS",
+    "name": "Chong Kun Dang Holdings Corp.",
+    "price": 44300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003010.KS",
+    "name": "Haein Corporation",
+    "price": 4795,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003530.KS",
+    "name": "Hanwha Investment & Securities Co., Ltd.",
+    "price": 3215,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005945.KS",
+    "name": "NH Investment & Securities Co., Ltd.",
+    "price": 12420,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006370.KS",
+    "name": "Daegu Department Store Co., Ltd.",
+    "price": 8080,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007340.KS",
+    "name": "DN Automotive Corporation",
+    "price": 20350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "268280.KS",
+    "name": "Miwon Specialty Chemical Co., Ltd.",
+    "price": 151400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "308170.KS",
+    "name": "CENTRAL MOTEK Co.Ltd.",
+    "price": 5400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "395400.KS",
+    "name": "SK Reits Co., Ltd.",
+    "price": 4935,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004490.KS",
+    "name": "Sebang Global Battery Co., Ltd.",
+    "price": 66900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004560.KS",
+    "name": "Hyundai Bng Steel Co., Ltd.",
+    "price": 11000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "017180.KS",
+    "name": "MYUNGMOON Pharm co.,Ltd",
+    "price": 1550,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "105840.KS",
+    "name": "Woojin Inc.",
+    "price": 6730,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "023150.KS",
+    "name": "MH Ethanol Co.,Ltd.",
+    "price": 5090,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "012280.KS",
+    "name": "Yeong Hwa Metal Co., Ltd.",
+    "price": 823,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002920.KS",
+    "name": "Yoosung Enterprise Co., Ltd.",
+    "price": 1840,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009900.KS",
+    "name": "Myoung Shin Industrial Co.,Ltd",
+    "price": 8120,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005390.KS",
+    "name": "Shinsung Tongsang Co., Ltd.",
+    "price": 2150,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "028670.KS",
+    "name": "Pan Ocean Co., Ltd.",
+    "price": 3350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "213500.KS",
+    "name": "Hansol Paper Co., Ltd.",
+    "price": 8290,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "077500.KS",
+    "name": "Uniquest Corporation",
+    "price": 5230,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001130.KS",
+    "name": "Daehan Flour Mills Co.,Ltd",
+    "price": 128200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001200.KS",
+    "name": "Eugene Investment & Securities Co.,Ltd.",
+    "price": 2340,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006040.KS",
+    "name": "Dongwon Industries Co., Ltd.",
+    "price": 35550,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "090435.KS",
+    "name": "Amorepacific Corporation",
+    "price": 35200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "145210.KS",
+    "name": "Dynamic Design Co., LTD.",
+    "price": 680,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "339770.KS",
+    "name": "Kyochon Food&Beverage Co., Ltd.",
+    "price": 6010,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "012610.KS",
+    "name": "Kyungin Synthetic Co., Ltd.",
+    "price": 2915,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010420.KS",
+    "name": "Hansol PNS Co.,Ltd.",
+    "price": 1885,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004890.KS",
+    "name": "Dongil Industries Co.,Ltd.",
+    "price": 40200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "031430.KS",
+    "name": "Shinsegae International Co., Ltd.",
+    "price": 9680,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "090350.KS",
+    "name": "NOROO PAINT & COATINGS Co., Ltd.",
+    "price": 7520,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "090355.KS",
+    "name": "NOROO PAINT & COATINGS Co., Ltd.",
+    "price": 12550,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "101140.KS",
+    "name": "INBIOGEN Co., Ltd.",
+    "price": 6630,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005850.KS",
+    "name": "SL Corporation",
+    "price": 35250,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "035150.KS",
+    "name": "BAIKSAN Co,. Ltd",
+    "price": 13320,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "234080.KS",
+    "name": "JW Lifescience Corporation",
+    "price": 11110,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002170.KS",
+    "name": "Samyang Tongsang Co., Ltd",
+    "price": 47200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000590.KS",
+    "name": "CS Holdings Co., Ltd.",
+    "price": 72600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "018670.KS",
+    "name": "SK Gas Co., Ltd.",
+    "price": 241000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "093050.KS",
+    "name": "LF Corp.",
+    "price": 14490,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000227.KS",
+    "name": "Yuyu Pharma, Inc.",
+    "price": 9580,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "049770.KS",
+    "name": "Dongwon F&B Co., Ltd.",
+    "price": 32450,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006110.KS",
+    "name": "Sam-A Aluminium Company, Limited",
+    "price": 24700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001390.KS",
+    "name": "KG Chemical Corporation",
+    "price": 3570,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "26490K.KS",
+    "name": "Crown Confectionery Co., Ltd.",
+    "price": 9190,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004250.KS",
+    "name": "NPC Co., Ltd.",
+    "price": 3940,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000970.KS",
+    "name": "Korea Cast Iron Pipe Ind. Co., Ltd.",
+    "price": 6200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002220.KS",
+    "name": "Hanil Iron & Steel Co., Ltd",
+    "price": 1860,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003830.KS",
+    "name": "Daehan Synthetic Fiber Co., Ltd.",
+    "price": 110400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000400.KS",
+    "name": "Lotte Non - Life Insurance Co., Ltd.",
+    "price": 1758,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006220.KS",
+    "name": "Jeju Bank",
+    "price": 7450,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006840.KS",
+    "name": "AK Holdings, Inc.",
+    "price": 10080,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001275.KS",
+    "name": "BOOKOOK Securities Co., Ltd.",
+    "price": 20800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011330.KS",
+    "name": "Uni-Chem Co., Ltd.",
+    "price": 1383,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "143210.KS",
+    "name": "Hands Corporation Ltd.",
+    "price": 1719,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010040.KS",
+    "name": "Korea Refractories Co., Ltd",
+    "price": 2180,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005950.KS",
+    "name": "ISU Chemical Co., Ltd",
+    "price": 5520,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "033530.KS",
+    "name": "Sejong Industrial Co., Ltd.",
+    "price": 4125,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "033780.KS",
+    "name": "KT&G Corporation",
+    "price": 102600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010955.KS",
+    "name": "S-Oil Corporation",
+    "price": 36450,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "015360.KS",
+    "name": "Yesco Holdings Co., Ltd.",
+    "price": 47500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "086280.KS",
+    "name": "Hyundai Glovis Co., Ltd.",
+    "price": 116100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002820.KS",
+    "name": "SUN&L Co., Ltd.",
+    "price": 3010,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "078000.KS",
+    "name": "Telcoware Co.,Ltd.",
+    "price": 8990,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "271940.KS",
+    "name": "Iljin Hysolus Co., Ltd.",
+    "price": 13300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000650.KS",
+    "name": "Chunil Express Co., Ltd.",
+    "price": 38600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "383800.KS",
+    "name": "LX Holdings Corp.",
+    "price": 6210,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "084870.KS",
+    "name": "TBH Global Co., Ltd",
+    "price": 1149,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "357120.KS",
+    "name": "Koramco Energy Plus Reit",
+    "price": 4430,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006980.KS",
+    "name": "Woosung Co., Ltd.",
+    "price": 14800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004840.KS",
+    "name": "DRB Holding Co., Ltd.",
+    "price": 4105,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "139130.KS",
+    "name": "DGB Financial Group Co., Ltd.",
+    "price": 9010,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "017370.KS",
+    "name": "Wooshin Systems Co., Ltd.",
+    "price": 5850,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000860.KS",
+    "name": "Kangnam Jevisco Co., Ltd",
+    "price": 23300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003580.KS",
+    "name": "HLB GLOBAL Co., Ltd.",
+    "price": 3050,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004690.KS",
+    "name": "Samchully Co.,Ltd",
+    "price": 87000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "016610.KS",
+    "name": "DB Financial Investment Co., Ltd.",
+    "price": 5500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005745.KS",
+    "name": "CROWNHAITAI Holdings Co.,Ltd.",
+    "price": 7560,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005750.KS",
+    "name": "Daelim B&Co Co.,Ltd.",
+    "price": 3980,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002787.KS",
+    "name": "ChinHung International, Inc.",
+    "price": 9990,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "267290.KS",
+    "name": "Kyungdong City Gas Co., Ltd",
+    "price": 17380,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "082640.KS",
+    "name": "Tong Yang Life Insurance Co., Ltd.",
+    "price": 5230,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003060.KS",
+    "name": "Aprogen pharmaceuticals,Inc.",
+    "price": 705,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002995.KS",
+    "name": "KUMHO Engineering & Construction Co., Ltd.",
+    "price": 10670,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "950210.KS",
+    "name": "Prestige BioPharma Limited",
+    "price": 13660,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002990.KS",
+    "name": "KUMHO Engineering & Construction Co., Ltd.",
+    "price": 2625,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009810.KS",
+    "name": "Playgram Co., Ltd.",
+    "price": 309,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "085620.KS",
+    "name": "Mirae Asset Life Insurance Co., Ltd.",
+    "price": 4540,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "104700.KS",
+    "name": "KISCO Corp.",
+    "price": 7790,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "108670.KS",
+    "name": "LX Hausys, Ltd.",
+    "price": 28700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "329180.KS",
+    "name": "Hd Hyundai Heavy Industries Co., Ltd.",
+    "price": 300000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "020120.KS",
+    "name": "KidariStudio, Inc.",
+    "price": 3145,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "456040.KS",
+    "name": "OCI Company Ltd.",
+    "price": 54700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003070.KS",
+    "name": "Kolon Global Corporation",
+    "price": 8600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "012160.KS",
+    "name": "Youngwire Co., Ltd.",
+    "price": 381,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "363280.KS",
+    "name": "TY Holdings Co., Ltd",
+    "price": 2120,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "039490.KS",
+    "name": "Kiwoom Securities Co., Ltd.",
+    "price": 118600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001080.KS",
+    "name": "Manho Rope & Wire Co., Ltd.",
+    "price": 30000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003925.KS",
+    "name": "Namyang Dairy Products Co., Ltd",
+    "price": 36150,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004970.KS",
+    "name": "Silla Co.,Ltd",
+    "price": 8650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005090.KS",
+    "name": "SGC Energy Co.,Ltd.",
+    "price": 21800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "016710.KS",
+    "name": "Daesung Holdings Co., Ltd.",
+    "price": 7020,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000950.KS",
+    "name": "Chonbang Co., Ltd.",
+    "price": 19500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001680.KS",
+    "name": "Daesang Corporation",
+    "price": 22850,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003460.KS",
+    "name": "Yuhwa Securities co.,ltd.",
+    "price": 2320,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "016740.KS",
+    "name": "DUAL Co., Ltd.",
+    "price": 3010,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "016800.KS",
+    "name": "Fursys Inc.",
+    "price": 42300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "092440.KS",
+    "name": "Kishin Corporation",
+    "price": 2245,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "900140.KS",
+    "name": "LVMC Holdings",
+    "price": 1733,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "248170.KS",
+    "name": "Sempio Foods Company",
+    "price": 26000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003620.KS",
+    "name": "Ssangyong Motor Company",
+    "price": 3620,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003650.KS",
+    "name": "Michang Oil Ind  .Co.,Ltd.",
+    "price": 101200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003720.KS",
+    "name": "SamYoung Chemical Co.,Ltd",
+    "price": 3895,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002870.KS",
+    "name": "Shinpoong Paper Mfg. Co., Ltd",
+    "price": 1233,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009270.KS",
+    "name": "ShinWon Corporation",
+    "price": 1430,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "453340.KS",
+    "name": "Hyundai Green Food",
+    "price": 15120,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000760.KS",
+    "name": "Rifa Co.,Ltd.",
+    "price": 10090,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010820.KS",
+    "name": "FIRSTEC Co., Ltd",
+    "price": 3390,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "012320.KS",
+    "name": "Kyungdong Invest Co., Ltd",
+    "price": 58100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "021240.KS",
+    "name": "COWAY Co., Ltd.",
+    "price": 77100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009290.KS",
+    "name": "Kwang Dong Pharmaceutical Co., Ltd.",
+    "price": 5370,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000075.KS",
+    "name": "Samyang Holdings Corporation",
+    "price": 56300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005680.KS",
+    "name": "Samyoung Electronics Co., Ltd",
+    "price": 10130,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009180.KS",
+    "name": "Hansol Logistics Co., Ltd.",
+    "price": 2105,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009160.KS",
+    "name": "SIMPAC Inc.",
+    "price": 3735,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "030210.KS",
+    "name": "Daol Investment & Securities Co., Ltd.",
+    "price": 2950,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004440.KS",
+    "name": "Samil C&S Co.,Ltd",
+    "price": 3810,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006090.KS",
+    "name": "Oyang Corporation",
+    "price": 8180,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "33637L.KS",
+    "name": "Solus Advanced Materials Co. Ltd.",
+    "price": 4400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000480.KS",
+    "name": "Chosun Refractories Co.,Ltd.",
+    "price": 4910,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014915.KS",
+    "name": "Sungmoon Electronics Co., Ltd.",
+    "price": 4455,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "026940.KS",
+    "name": "Bookook Steel Co., Ltd.",
+    "price": 2365,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000850.KS",
+    "name": "Hwacheon Machine Tool Co. Ltd",
+    "price": 27600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001260.KS",
+    "name": "Namkwang Engineering & Construction Co., Ltd.",
+    "price": 7680,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001340.KS",
+    "name": "Paik Kwang Industrial Co., Ltd.",
+    "price": 5960,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002700.KS",
+    "name": "Shinil Electronics Co.,Ltd",
+    "price": 1484,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "091810.KS",
+    "name": "T'Way Air Co., Ltd.",
+    "price": 2070,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "248070.KS",
+    "name": "Solum Co., Ltd.",
+    "price": 16260,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "025860.KS",
+    "name": "Namhae Chemical Corporation",
+    "price": 6220,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000680.KS",
+    "name": "LS Networks Corporation Limited",
+    "price": 3290,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002785.KS",
+    "name": "ChinHung International, Inc.",
+    "price": 3325,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "018470.KS",
+    "name": "Choil Aluminum Co., Ltd.",
+    "price": 1467,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000230.KS",
+    "name": "Ildong Holdings Co., Ltd.",
+    "price": 6340,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "334890.KS",
+    "name": "IGIS Value Plus REIT Co., Ltd.",
+    "price": 4660,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007575.KS",
+    "name": "Ilyang Pharmaceutical Co.,Ltd",
+    "price": 10160,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005800.KS",
+    "name": "Shinyoungwacoal,Inc.",
+    "price": 10070,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005810.KS",
+    "name": "Poongsan Holdings Corporation",
+    "price": 26750,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011280.KS",
+    "name": "Tailim Packaging Co., Ltd.",
+    "price": 2020,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "034830.KS",
+    "name": "KOREIT",
+    "price": 995,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "214390.KS",
+    "name": "Kyongbo Pharmaceutical Co., Ltd",
+    "price": 5400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003920.KS",
+    "name": "Namyang Dairy Products Co., Ltd",
+    "price": 71800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006805.KS",
+    "name": "Mirae Asset Securities Co. Ltd.",
+    "price": 4390,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009770.KS",
+    "name": "Sam Jung Pulp Co.,Ltd.",
+    "price": 25500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "029530.KS",
+    "name": "sindoh Co.,Ltd.",
+    "price": 38300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "023960.KS",
+    "name": "SC Engineering Co., Ltd",
+    "price": 1232,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "298050.KS",
+    "name": "Hyosung Advanced Materials Corporation",
+    "price": 171900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "016450.KS",
+    "name": "Hansae Yes24 Holdings Co., Ltd",
+    "price": 3585,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "210540.KS",
+    "name": "DY Power Corporation",
+    "price": 11770,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001120.KS",
+    "name": "LX International Corp.",
+    "price": 25200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000320.KS",
+    "name": "NOROO Holdings Co., Ltd.",
+    "price": 13680,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002460.KS",
+    "name": "Hwasung Industrial Co., Ltd.",
+    "price": 9460,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002620.KS",
+    "name": "Jeil Pharma Holdings Inc",
+    "price": 7890,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003555.KS",
+    "name": "LG Corp.",
+    "price": 53000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004080.KS",
+    "name": "Shinhung Co., Ltd",
+    "price": 14720,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005960.KS",
+    "name": "Dongbu Corporation",
+    "price": 3500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008730.KS",
+    "name": "Youlchon Chemical Co.,Ltd.",
+    "price": 24650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "067830.KS",
+    "name": "Savezone I&C Corporation",
+    "price": 2235,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011785.KS",
+    "name": "Kumho Petrochemical Co., Ltd.",
+    "price": 52000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008500.KS",
+    "name": "Iljeong Industrial Co.,Ltd",
+    "price": 10700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "033250.KS",
+    "name": "CHASYS Co., Ltd.",
+    "price": 1209,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "063160.KS",
+    "name": "CKD Bio Corp.",
+    "price": 23500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "017040.KS",
+    "name": "Kwang Myung Electric Co.,Ltd",
+    "price": 1363,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "085310.KS",
+    "name": "NK Co., Ltd.",
+    "price": 783,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "286940.KS",
+    "name": "Lotte Data Communication Company",
+    "price": 18020,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "194370.KS",
+    "name": "JS Corporation",
+    "price": 7600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011500.KS",
+    "name": "Hannong Chemicals Inc.",
+    "price": 14930,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "365550.KS",
+    "name": "ESR Kendall Square REIT Co., Ltd.",
+    "price": 4590,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001060.KS",
+    "name": "JW Pharmaceutical Corporation",
+    "price": 21050,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001065.KS",
+    "name": "JW Pharmaceutical Corporation",
+    "price": 27500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001420.KS",
+    "name": "Tae Won Mulsan Co., Ltd.",
+    "price": 3690,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000157.KS",
+    "name": "Doosan Corporation",
+    "price": 116100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001515.KS",
+    "name": "SK Securities Co., Ltd.",
+    "price": 1700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007540.KS",
+    "name": "Sempio Company",
+    "price": 42100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004835.KS",
+    "name": "Duksung Co., Ltd.",
+    "price": 10270,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004870.KS",
+    "name": "Tway Holdings Incorporation",
+    "price": 673,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014440.KS",
+    "name": "Youngbo Chemical Co., Ltd.",
+    "price": 4810,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001820.KS",
+    "name": "SAMWHA CAPACITOR Co.,LTD",
+    "price": 24350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008490.KS",
+    "name": "Suheung Co., Ltd.",
+    "price": 13650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "025560.KS",
+    "name": "Mirae Corporation",
+    "price": 780,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "069260.KS",
+    "name": "TKG Huchems Co.,Ltd.",
+    "price": 15480,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "185750.KS",
+    "name": "Chong Kun Dang Pharmaceutical Corp.",
+    "price": 78000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009070.KS",
+    "name": "KCTC Co. Ltd",
+    "price": 3745,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006125.KS",
+    "name": "SK Discovery Co., Ltd.",
+    "price": 32450,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "024070.KS",
+    "name": "Wiscom Co.,Ltd.",
+    "price": 1995,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000815.KS",
+    "name": "Samsung Fire & Marine Insurance Co., Ltd.",
+    "price": 271500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002780.KS",
+    "name": "ChinHung International, Inc.",
+    "price": 793,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000500.KS",
+    "name": "GAON CABLE Co., Ltd.",
+    "price": 39750,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "094280.KS",
+    "name": "Hyosung ITX Co. Ltd.",
+    "price": 11760,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001685.KS",
+    "name": "Daesang Corporation",
+    "price": 17290,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "00088K.KS",
+    "name": "Hanwha Corporation",
+    "price": 18560,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "088350.KS",
+    "name": "Hanwha Life Insurance Co., Ltd.",
+    "price": 2545,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "317400.KS",
+    "name": "Xi S&D Inc.",
+    "price": 3150,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003075.KS",
+    "name": "Kolon Global Corporation",
+    "price": 14540,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "012205.KS",
+    "name": "Keyang Electric Machinery Co., Ltd.",
+    "price": 3300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "019440.KS",
+    "name": "SeAH SPECIALSTEEL CO., LTD.",
+    "price": 13000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "019490.KS",
+    "name": "Hitron Systems Inc.",
+    "price": 669,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "039570.KS",
+    "name": "HDC I-Controls Co., Ltd.",
+    "price": 8290,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004365.KS",
+    "name": "Sebang Co., Ltd",
+    "price": 7510,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004980.KS",
+    "name": "Sungshin Cement Co., Ltd",
+    "price": 7150,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005820.KS",
+    "name": "Wonlim Corporation",
+    "price": 13450,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "097950.KS",
+    "name": "CJ Cheiljedang Corporation",
+    "price": 246000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "267260.KS",
+    "name": "Hyundai Electric & Energy Systems Co., Ltd.",
+    "price": 303000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "350520.KS",
+    "name": "IGIS RESIDENCE REIT Co., Ltd.",
+    "price": 4115,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "058860.KS",
+    "name": "KTIS Corporation",
+    "price": 2455,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010640.KS",
+    "name": "Chinyang Poly Urethane Co.,Ltd",
+    "price": 6010,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011780.KS",
+    "name": "Kumho Petrochemical Co., Ltd.",
+    "price": 115700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "083420.KS",
+    "name": "Green Chemical Co., Ltd.",
+    "price": 5720,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "145995.KS",
+    "name": "Samyang Corporation",
+    "price": 29400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003475.KS",
+    "name": "Yuanta Securities Korea Co., Ltd.",
+    "price": 2800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007120.KS",
+    "name": "MiraeING.Co.,Ltd.",
+    "price": 898,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007310.KS",
+    "name": "Ottogi Corporation",
+    "price": 405500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "015020.KS",
+    "name": "E-Starco. Co. Ltd",
+    "price": 1665,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "092780.KS",
+    "name": "Dong Yang Piston Co., Ltd.",
+    "price": 4490,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "136490.KS",
+    "name": "Sunjin Co.,Ltd.",
+    "price": 5400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "249420.KS",
+    "name": "Ildong Pharmaceutical Co., Ltd.",
+    "price": 11220,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003570.KS",
+    "name": "Snt Dynamics Co.,Ltd.",
+    "price": 29200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "226320.KS",
+    "name": "It'S Hanbul Co., Ltd.",
+    "price": 12110,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005965.KS",
+    "name": "Dongbu Corporation",
+    "price": 17340,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000220.KS",
+    "name": "Yuyu Pharma, Inc.",
+    "price": 4370,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "019685.KS",
+    "name": "Daekyo Co., Ltd.",
+    "price": 1312,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "023000.KS",
+    "name": "SAMWONSTEEL Co.,Ltd.",
+    "price": 2335,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003000.KS",
+    "name": "Bukwang Pharmaceutical Co., Ltd.",
+    "price": 3800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "020150.KS",
+    "name": "ILJIN Materials Co., Ltd.",
+    "price": 22400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "214330.KS",
+    "name": "Kumho HT, Inc",
+    "price": 569,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "051905.KS",
+    "name": "LG H&H Co., Ltd.",
+    "price": 119100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "015760.KS",
+    "name": "Korea Electric Power Corporation",
+    "price": 22000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007070.KS",
+    "name": "GS Retail Co., Ltd.",
+    "price": 14540,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "097230.KS",
+    "name": "HJ Shipbuilding & Construction Co., Ltd.",
+    "price": 6350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010120.KS",
+    "name": "LS ELECTRIC Co., Ltd.",
+    "price": 171500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "090430.KS",
+    "name": "Amorepacific Corporation",
+    "price": 110300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004830.KS",
+    "name": "Duksung Co., Ltd.",
+    "price": 6820,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "058430.KS",
+    "name": "POSCO STEELEON Co., Ltd.",
+    "price": 37100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "044820.KS",
+    "name": "Cosmax BTI, Inc.",
+    "price": 10650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "375500.KS",
+    "name": "DL E&C Co.,Ltd.",
+    "price": 41400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001230.KS",
+    "name": "Dongkuk Steel Mill Company Limited",
+    "price": 6870,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008775.KS",
+    "name": "Hotel Shilla Co.,Ltd",
+    "price": 30550,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "074610.KS",
+    "name": "ENPLUS Co., Ltd.",
+    "price": 555,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "023810.KS",
+    "name": "INFAC Corporation",
+    "price": 5640,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009470.KS",
+    "name": "Samwha Electric Co.,Ltd.",
+    "price": 27850,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "00104K.KS",
+    "name": "CJ Corporation",
+    "price": 101500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "195870.KS",
+    "name": "HAESUNG DS Co., Ltd.",
+    "price": 24400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "023590.KS",
+    "name": "Daou Technology Inc.",
+    "price": 19490,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "013890.KS",
+    "name": "Zinus, Inc",
+    "price": 16430,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "062040.KS",
+    "name": "Sanil Electric Co., Ltd.",
+    "price": 51900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "041650.KS",
+    "name": "Sangsin Brake Co., Ltd.",
+    "price": 2945,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000720.KS",
+    "name": "Hyundai Engineering & Construction Co., Ltd.",
+    "price": 35700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001750.KS",
+    "name": "Hanyang Securities Co. Ltd.",
+    "price": 12010,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001740.KS",
+    "name": "SK Networks Company Limited",
+    "price": 4080,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001210.KS",
+    "name": "Kumho Electric, Inc.",
+    "price": 699,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "214320.KS",
+    "name": "Innocean Worldwide Inc.",
+    "price": 17520,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "271980.KS",
+    "name": "Jeil Pharmaceutical Co.,Ltd",
+    "price": 13510,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004140.KS",
+    "name": "Dongbang Transport Logistics Co., Ltd.",
+    "price": 2120,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009420.KS",
+    "name": "Hanall Biopharma Co.,Ltd",
+    "price": 27350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "066570.KS",
+    "name": "LG Electronics Inc.",
+    "price": 72800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006340.KS",
+    "name": "Daewon Cable. Co., Ltd.",
+    "price": 2615,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006360.KS",
+    "name": "GS Engineering & Construction Corporation",
+    "price": 16750,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011150.KS",
+    "name": "CJ Seafood Corporation",
+    "price": 3155,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "057050.KS",
+    "name": "Hyundai Home Shopping Network Corporation",
+    "price": 47100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "037710.KS",
+    "name": "Gwangju Shinsegae. Co. ,Ltd.",
+    "price": 26600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002320.KS",
+    "name": "Hanjin Transportation Co., Ltd.",
+    "price": 19150,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "133820.KS",
+    "name": "Fine besteel. Co., Ltd.",
+    "price": 885,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000080.KS",
+    "name": "HITEJINRO Co., Ltd.",
+    "price": 19370,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011000.KS",
+    "name": "GeneOne Life Science, Inc.",
+    "price": 2000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005720.KS",
+    "name": "Nexen Corporation",
+    "price": 4620,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "251270.KS",
+    "name": "Netmarble Corporation",
+    "price": 41650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "020000.KS",
+    "name": "HANDSOME Corp.",
+    "price": 14740,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "281820.KS",
+    "name": "KCTech Co., Ltd.",
+    "price": 29600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "450080.KS",
+    "name": "Ecopro Mat",
+    "price": 55100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "402340.KS",
+    "name": "SK Square Co., Ltd.",
+    "price": 87300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006800.KS",
+    "name": "Mirae Asset Securities Co. Ltd.",
+    "price": 9350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "034220.KS",
+    "name": "LG Display Co., Ltd.",
+    "price": 8320,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009970.KS",
+    "name": "Youngone Holdings Co., Ltd.",
+    "price": 88000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000070.KS",
+    "name": "Samyang Holdings Corporation",
+    "price": 56300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "084010.KS",
+    "name": "Daehan Steel Co., Ltd.",
+    "price": 15220,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001450.KS",
+    "name": "Hyundai Marine & Fire Insurance Co., Ltd.",
+    "price": 21400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009540.KS",
+    "name": "Korea Shipbuilding & Offshore Engineering Co., Ltd.",
+    "price": 204000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "028260.KS",
+    "name": "Samsung C&T Corporation",
+    "price": 117400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "181710.KS",
+    "name": "NHN Corporation",
+    "price": 19200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005930.KS",
+    "name": "Samsung Electronics Co., Ltd.",
+    "price": 56100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "012630.KS",
+    "name": "HDC HOLDINGS CO.,Ltd",
+    "price": 16020,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014580.KS",
+    "name": "Taekyung Bk Co., Ltd",
+    "price": 4370,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008260.KS",
+    "name": "Ni Steel Co.,Ltd",
+    "price": 3220,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "092220.KS",
+    "name": "Kec Corporation",
+    "price": 705,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "034310.KS",
+    "name": "NICE Holdings Co., Ltd.",
+    "price": 10730,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "443060.KS",
+    "name": "HDHMS",
+    "price": 147600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "034120.KS",
+    "name": "Seoul Broadcasting System",
+    "price": 19210,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "084695.KS",
+    "name": "Daesang Holdings Co., Ltd.",
+    "price": 25800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "111110.KS",
+    "name": "Hojeon Limited",
+    "price": 7610,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005385.KS",
+    "name": "Hyundai Motor Company",
+    "price": 141400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "093240.KS",
+    "name": "hyungji Elite Co., Ltd.",
+    "price": 2615,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003220.KS",
+    "name": "Daewon Pharmaceutical Co., Ltd.",
+    "price": 13400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003200.KS",
+    "name": "Ilshin Spinning Co.,Ltd",
+    "price": 8200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "267250.KS",
+    "name": "HD Hyundai Co., Ltd.",
+    "price": 71600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000050.KS",
+    "name": "Kyungbangco.Ltd",
+    "price": 6360,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "060980.KS",
+    "name": "Halla Holdings Corp.",
+    "price": 35100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000270.KS",
+    "name": "Kia Corporation",
+    "price": 89700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002020.KS",
+    "name": "Kolon Corporation",
+    "price": 21350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003680.KS",
+    "name": "Hansung Enterprise Co.,Ltd",
+    "price": 4855,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002630.KS",
+    "name": "ORIENT BIO Inc.",
+    "price": 1862,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006345.KS",
+    "name": "Daewon Cable. Co., Ltd.",
+    "price": 3535,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "051915.KS",
+    "name": "LG Chem, Ltd.",
+    "price": 108300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002960.KS",
+    "name": "Hankook Shell Oil Co.,Ltd.",
+    "price": 337000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "120110.KS",
+    "name": "Kolon Industries, Inc.",
+    "price": 28950,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "032830.KS",
+    "name": "Samsung Life Insurance Co., Ltd.",
+    "price": 80900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007590.KS",
+    "name": "DONGBANG AGRO Corporation",
+    "price": 5990,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000105.KS",
+    "name": "Yuhan Corporation",
+    "price": 98000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001780.KS",
+    "name": "Aluko Co., Ltd.",
+    "price": 2090,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "042700.KS",
+    "name": "HANMI Semiconductor Co., Ltd.",
+    "price": 65500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005935.KS",
+    "name": "Samsung Electronics Co., Ltd.",
+    "price": 46500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "027410.KS",
+    "name": "BGF Co., Ltd.",
+    "price": 3440,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001940.KS",
+    "name": "KISCO Holdings Corp.",
+    "price": 19760,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "017960.KS",
+    "name": "Hankuk Carbon Co., Ltd.",
+    "price": 16830,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000810.KS",
+    "name": "Samsung Fire & Marine Insurance Co., Ltd.",
+    "price": 353500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "017940.KS",
+    "name": "E1 Corporation",
+    "price": 58900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "326030.KS",
+    "name": "SK Biopharmaceuticals Co., Ltd.",
+    "price": 102300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "155660.KS",
+    "name": "DSR Corp",
+    "price": 3950,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000020.KS",
+    "name": "Dongwha Pharm.Co.,Ltd",
+    "price": 6010,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "293480.KS",
+    "name": "Hana Pharm Co., Ltd.",
+    "price": 11010,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "123700.KS",
+    "name": "SJM Co., Ltd.",
+    "price": 2920,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "348950.KS",
+    "name": "JR Global REIT",
+    "price": 2650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002810.KS",
+    "name": "Samyung Trading Co., Ltd.",
+    "price": 13200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "35320K.KS",
+    "name": "DAEDUCK ELECTRONICS Co., Ltd.",
+    "price": 7390,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "137310.KS",
+    "name": "SD BioSensor, Inc",
+    "price": 9040,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014285.KS",
+    "name": "Kumkang Kind Co., Ltd.",
+    "price": 6570,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005490.KS",
+    "name": "POSCO Holdings Inc.",
+    "price": 273000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010400.KS",
+    "name": "Woojin I&S Co., Ltd.",
+    "price": 2545,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006880.KS",
+    "name": "Singsong Holdings Co.,Ltd.",
+    "price": 6940,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000540.KS",
+    "name": "Heungkuk Fire&Marine Insurance Co., Ltd.",
+    "price": 3300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "069730.KS",
+    "name": "DSR Wire Corp",
+    "price": 3635,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "300720.KS",
+    "name": "Hanil Cement Co., Ltd.",
+    "price": 15820,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "353200.KS",
+    "name": "DAEDUCK ELECTRONICS Co., Ltd.",
+    "price": 14700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014990.KS",
+    "name": "In the F CO.,LTD.",
+    "price": 887,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "055550.KS",
+    "name": "Shinhan Financial Group Co., Ltd.",
+    "price": 47050,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "454910.KS",
+    "name": "Doosan Robotics Inc.",
+    "price": 46400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003547.KS",
+    "name": "Daishin Securities Co., Ltd.",
+    "price": 14630,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010060.KS",
+    "name": "OCI Company Ltd.",
+    "price": 67600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010130.KS",
+    "name": "Korea Zinc Company, Ltd.",
+    "price": 705000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "032560.KS",
+    "name": "Hwang Kum Steel & Technology Co., Ltd",
+    "price": 5110,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000040.KS",
+    "name": "KR Motors Co., Ltd.",
+    "price": 360,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "244920.KS",
+    "name": "Aplus Asset Advisor Co. Ltd",
+    "price": 4090,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "352820.KS",
+    "name": "HYBE Co., Ltd.",
+    "price": 246000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "012450.KS",
+    "name": "Hanwha Aerospace Co., Ltd.",
+    "price": 702000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "241560.KS",
+    "name": "Doosan Bobcat Inc.",
+    "price": 46650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001040.KS",
+    "name": "CJ Corporation",
+    "price": 131100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "058850.KS",
+    "name": "ktcs corporation",
+    "price": 2575,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "084690.KS",
+    "name": "Daesang Holdings Co., Ltd.",
+    "price": 14010,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "071055.KS",
+    "name": "Korea Investment Holdings Co., Ltd.",
+    "price": 54300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "024110.KS",
+    "name": "Industrial Bank of Korea",
+    "price": 14220,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "019170.KS",
+    "name": "Shin Poong Pharm.Co.,Ltd.",
+    "price": 7270,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "100090.KS",
+    "name": "SK oceanplant Co.,Ltd",
+    "price": 13510,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002100.KS",
+    "name": "Kyung Nong Corporation",
+    "price": 8790,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004000.KS",
+    "name": "LOTTE Fine Chemical Co., Ltd.",
+    "price": 35100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "130660.KS",
+    "name": "Korea Electric Power Industrial Development Co., Ltd",
+    "price": 9800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "068290.KS",
+    "name": "Samsung Publishing Co., Ltd",
+    "price": 16260,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003160.KS",
+    "name": "D.I Corporation",
+    "price": 13820,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003520.KS",
+    "name": "Yungjin Pharm. Co., Ltd.",
+    "price": 1920,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004105.KS",
+    "name": "Taeyang Metal Industrial Co., Ltd.",
+    "price": 5070,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005690.KS",
+    "name": "Pharmicell Co., Ltd.",
+    "price": 9360,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003550.KS",
+    "name": "LG Corp.",
+    "price": 62600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "036420.KS",
+    "name": "ContentreeJoongAng corp.",
+    "price": 8520,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006260.KS",
+    "name": "LS Corp.",
+    "price": 108000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010770.KS",
+    "name": "Pyung Hwa Holdings Co., Ltd.",
+    "price": 9940,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "484870.KS",
+    "name": "MNC Solution Co., Ltd.",
+    "price": 79900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010950.KS",
+    "name": "S-Oil Corporation",
+    "price": 54400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003850.KS",
+    "name": "Boryung Corporation",
+    "price": 8400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "096770.KS",
+    "name": "SK Innovation Co., Ltd.",
+    "price": 105300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002240.KS",
+    "name": "Kiswire Ltd.",
+    "price": 16630,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014910.KS",
+    "name": "Sungmoon Electronics Co., Ltd.",
+    "price": 1063,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004380.KS",
+    "name": "Samick THK Co., Ltd.",
+    "price": 9490,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "037560.KS",
+    "name": "LG HelloVision Corp.",
+    "price": 2300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007460.KS",
+    "name": "Aprogen Medicines Inc.",
+    "price": 718,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "017550.KS",
+    "name": "Soosan Heavy Industries Co., Ltd.",
+    "price": 1795,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003545.KS",
+    "name": "Daishin Securities Co., Ltd.",
+    "price": 15370,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004540.KS",
+    "name": "KleanNara Co., Ltd.",
+    "price": 2640,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "272550.KS",
+    "name": "Samyang Packaging Corporation",
+    "price": 13540,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007110.KS",
+    "name": "Ilshinstone.Co.,Ltd.",
+    "price": 2215,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009140.KS",
+    "name": "Kyungin Electronics Co., Ltd",
+    "price": 18960,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "293940.KS",
+    "name": "Shinhan Alpha REIT Co., Ltd.",
+    "price": 5530,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "015260.KS",
+    "name": "Automobile & PCB Inc.",
+    "price": 467,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000430.KS",
+    "name": "Daewon Kang Up Co., Ltd.",
+    "price": 3380,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002355.KS",
+    "name": "Nexen Tire Corporation",
+    "price": 2725,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004090.KS",
+    "name": "Korea Petroleum Industries Company",
+    "price": 11900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006490.KS",
+    "name": "Inscobee., Inc.",
+    "price": 1397,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "336260.KS",
+    "name": "Doosan Fuel Cell Co., Ltd.",
+    "price": 14500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "025540.KS",
+    "name": "Korea Electric Terminal Co., Ltd.",
+    "price": 65700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "033240.KS",
+    "name": "Jahwa Electronics. Co., Ltd",
+    "price": 11350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000210.KS",
+    "name": "DL Holdings CO., LTD.",
+    "price": 32050,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014820.KS",
+    "name": "Dongwon Systems Corporation",
+    "price": 32900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009320.KS",
+    "name": "Daewoo Electronic Components Co., Ltd.",
+    "price": 995,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007660.KS",
+    "name": "ISU Petasys Co., Ltd.",
+    "price": 32650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "078520.KS",
+    "name": "Able C&C Co., Ltd.",
+    "price": 6430,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "026960.KS",
+    "name": "Dong Suh Companies Inc.",
+    "price": 25550,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "012510.KS",
+    "name": "Douzone Bizon Co., Ltd.",
+    "price": 56900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010780.KS",
+    "name": "IS DongSeo Co., Ltd.",
+    "price": 16610,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005300.KS",
+    "name": "Lotte Chilsung Beverage Co., Ltd.",
+    "price": 107500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008600.KS",
+    "name": "The Willbes & CO., Ltd.",
+    "price": 748,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "163560.KS",
+    "name": "DRB Industrial Co., Ltd.",
+    "price": 6890,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "012690.KS",
+    "name": "Monalisa Co., Ltd",
+    "price": 2990,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002840.KS",
+    "name": "Miwon Commercial Co., Ltd.",
+    "price": 178500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "192080.KS",
+    "name": "DoubleUGames Co., Ltd.",
+    "price": 53100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "192820.KS",
+    "name": "Cosmax, Inc.",
+    "price": 170400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "128940.KS",
+    "name": "Hanmi Pharm. Co., Ltd.",
+    "price": 229000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "097955.KS",
+    "name": "CJ Cheiljedang Corporation",
+    "price": 132900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "02826K.KS",
+    "name": "Samsung C&T Corporation",
+    "price": 87000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014160.KS",
+    "name": "DAE YOUNG Packaging.Co., Ltd.",
+    "price": 1775,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "013580.KS",
+    "name": "Kyeryong Construction Industrial Co., Ltd.",
+    "price": 14000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001720.KS",
+    "name": "Shinyoung Securities Co., Ltd.",
+    "price": 74000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "031820.KS",
+    "name": "Comtec Systems Co.,Ltd.",
+    "price": 593,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "075580.KS",
+    "name": "Sejin Heavy Industries Co., Ltd.",
+    "price": 6910,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "071840.KS",
+    "name": "LOTTE Himart Co.,Ltd.",
+    "price": 7100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009460.KS",
+    "name": "Hanchangpaper co., Ltd",
+    "price": 711,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "180640.KS",
+    "name": "Hanjin Kal",
+    "price": 80900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005305.KS",
+    "name": "Lotte Chilsung Beverage Co., Ltd.",
+    "price": 61900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "170900.KS",
+    "name": "Dong-A ST Co., Ltd.",
+    "price": 44600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001380.KS",
+    "name": "SG Global Co.,Ltd.",
+    "price": 2300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000150.KS",
+    "name": "Doosan Corporation",
+    "price": 265500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004020.KS",
+    "name": "Hyundai Steel Company",
+    "price": 24150,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004100.KS",
+    "name": "Taeyang Metal Industrial Co., Ltd.",
+    "price": 3380,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004800.KS",
+    "name": "Hyosung Corporation",
+    "price": 49250,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "025750.KS",
+    "name": "Hansol HomeDeco Co., Ltd.",
+    "price": 991,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "025820.KS",
+    "name": "Leeku Industrial Co., Ltd.",
+    "price": 4395,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003230.KS",
+    "name": "Samyang Foods Co., Ltd.",
+    "price": 800000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "012170.KS",
+    "name": "Ascendio Co., Ltd.",
+    "price": 4250,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014130.KS",
+    "name": "Hanexpress.Co., Ltd",
+    "price": 3355,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004720.KS",
+    "name": "PharmGen Science, Inc.",
+    "price": 3930,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007860.KS",
+    "name": "Seoyon Co., Ltd.",
+    "price": 7120,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "032350.KS",
+    "name": "Lotte Tour Development Co., Ltd.",
+    "price": 8900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "013360.KS",
+    "name": "Ilsung Construction Co., Ltd.",
+    "price": 3535,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005940.KS",
+    "name": "NH Investment & Securities Co., Ltd.",
+    "price": 13420,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000890.KS",
+    "name": "BOHAE BREWERY Co., Ltd.",
+    "price": 464,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "322000.KS",
+    "name": "Hyundai Energy Solutions Co.,Ltd",
+    "price": 26500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "129260.KS",
+    "name": "Intergis Co., Ltd",
+    "price": 2500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "018250.KS",
+    "name": "Aekyung Industrial Co., Ltd.",
+    "price": 15110,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "079430.KS",
+    "name": "Hyundai Livart Furniture Company Limited",
+    "price": 6970,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "012800.KS",
+    "name": "Daechang Co., Ltd.",
+    "price": 1325,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009580.KS",
+    "name": "Moorim P&P Co., Ltd.",
+    "price": 3020,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009200.KS",
+    "name": "Moorim Paper Co., Ltd.",
+    "price": 2090,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001045.KS",
+    "name": "CJ Corporation",
+    "price": 66100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "118000.KS",
+    "name": "Wooridul Huebrain Limited",
+    "price": 313,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006660.KS",
+    "name": "Samsung Climate Control Co., Ltd.",
+    "price": 15130,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001250.KS",
+    "name": "GS Global Corp.",
+    "price": 2560,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002030.KS",
+    "name": "Asia Holdings Co., Ltd.",
+    "price": 261500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009410.KS",
+    "name": "Taeyoung Engineering & Construction Co.,Ltd.",
+    "price": 2535,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002450.KS",
+    "name": "SAMICK MUSICAL INSTRUMENT Co., Ltd",
+    "price": 1229,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005420.KS",
+    "name": "Cosmo Chemical Co., Ltd.",
+    "price": 14740,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "086790.KS",
+    "name": "Hana Financial Group Inc.",
+    "price": 58600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006200.KS",
+    "name": "KEC Holdings Co., Ltd.",
+    "price": 668,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011090.KS",
+    "name": "ENEX Co.,LTD",
+    "price": 884,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000545.KS",
+    "name": "Heungkuk Fire&Marine Insurance Co., Ltd.",
+    "price": 7430,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "090080.KS",
+    "name": "Pyung Hwa Industrial Co., Ltd.",
+    "price": 1600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007690.KS",
+    "name": "Kukdo Chemical Co., Ltd.",
+    "price": 29750,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014710.KS",
+    "name": "SAJO SEAFOOD Co.,Ltd",
+    "price": 5450,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "161890.KS",
+    "name": "Kolmar Korea Co., Ltd.",
+    "price": 68200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005610.KS",
+    "name": "SPC Samlip Co., Ltd.",
+    "price": 68900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "024720.KS",
+    "name": "Kolmar Korea Holdings Co., Ltd.",
+    "price": 9600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "068270.KS",
+    "name": "Celltrion, Inc.",
+    "price": 173900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "032640.KS",
+    "name": "LG Uplus Corp.",
+    "price": 10550,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006400.KS",
+    "name": "Samsung SDI Co., Ltd.",
+    "price": 190800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "035250.KS",
+    "name": "Kangwon Land, Inc.",
+    "price": 15620,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "047050.KS",
+    "name": "Posco International Corporation",
+    "price": 48050,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "023530.KS",
+    "name": "Lotte Shopping Co., Ltd.",
+    "price": 65800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "064960.KS",
+    "name": "SNT Motiv Co., Ltd.",
+    "price": 26700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "298040.KS",
+    "name": "Hyosung Heavy Industries Corporation",
+    "price": 431500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005180.KS",
+    "name": "Binggrae Co., Ltd.",
+    "price": 99000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009150.KS",
+    "name": "Samsung Electro-Mechanics Co., Ltd.",
+    "price": 121200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "316140.KS",
+    "name": "Woori Financial Group Inc.",
+    "price": 16440,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003670.KS",
+    "name": "Posco Chemical Co., Ltd.",
+    "price": 121700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "034020.KS",
+    "name": "Doosan Enerbility Co., Ltd.",
+    "price": 23050,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "145720.KS",
+    "name": "Dentium CO., LTD",
+    "price": 76600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "012750.KS",
+    "name": "S-1 Corporation",
+    "price": 61600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010620.KS",
+    "name": "Hyundai Mipo Dockyard Co., Ltd.",
+    "price": 116100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "241590.KS",
+    "name": "Hwaseung Enterprise Co., Ltd.",
+    "price": 7470,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "101530.KS",
+    "name": "Haitai Confectionery&Foods Co.,ltd.",
+    "price": 6710,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009830.KS",
+    "name": "Hanwha Solutions Corporation",
+    "price": 21000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "112610.KS",
+    "name": "CS Wind Corporation",
+    "price": 36350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004770.KS",
+    "name": "Sunny Electronics Corp.",
+    "price": 3055,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004170.KS",
+    "name": "SHINSEGAE Inc.",
+    "price": 152500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "019180.KS",
+    "name": "THN Corporation",
+    "price": 2935,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "139480.KS",
+    "name": "E-MART Inc.",
+    "price": 88400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "383220.KS",
+    "name": "F&F Co., Ltd",
+    "price": 63100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011760.KS",
+    "name": "Hyundai Corporation",
+    "price": 21050,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011790.KS",
+    "name": "SKC Co., Ltd.",
+    "price": 102500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003610.KS",
+    "name": "Pangrim Co., Ltd.",
+    "price": 3760,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009450.KS",
+    "name": "Kyung Dong Navien Co., Ltd.",
+    "price": 67500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001550.KS",
+    "name": "Chobi Company Limited",
+    "price": 10450,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004370.KS",
+    "name": "Nongshim Co., Ltd.",
+    "price": 401000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011930.KS",
+    "name": "Shinsung E&G Co., Ltd.",
+    "price": 1185,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014790.KS",
+    "name": "Halla Corporation",
+    "price": 2220,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "012330.KS",
+    "name": "Hyundai Mobis Co.,Ltd",
+    "price": 259000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003240.KS",
+    "name": "Taekwang Industrial Co., Ltd.",
+    "price": 665000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "377300.KS",
+    "name": "Kakao Pay Corp.",
+    "price": 30000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "323410.KS",
+    "name": "KakaoBank Corp.",
+    "price": 21900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007210.KS",
+    "name": "Byucksan Corporation",
+    "price": 2220,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "077970.KS",
+    "name": "STX Engine Co.,Ltd.",
+    "price": 20200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "017670.KS",
+    "name": "SK Telecom Co.,Ltd",
+    "price": 56100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "013520.KS",
+    "name": "Hwaseung Corporation Co.,Ltd.",
+    "price": 1648,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000100.KS",
+    "name": "Yuhan Corporation",
+    "price": 109700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004920.KS",
+    "name": "CITECH Co., Ltd.",
+    "price": 1065,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000120.KS",
+    "name": "CJ Logistics Corporation",
+    "price": 89400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "267270.KS",
+    "name": "Hyundai Construction Equipment Co., Ltd.",
+    "price": 61000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007700.KS",
+    "name": "F&F Holdings Co., Ltd.",
+    "price": 12050,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "051900.KS",
+    "name": "LG H&H Co., Ltd.",
+    "price": 316000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003470.KS",
+    "name": "Yuanta Securities Korea Co., Ltd.",
+    "price": 2605,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003960.KS",
+    "name": "Sajodaerim Corporation",
+    "price": 36900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004710.KS",
+    "name": "Hansol  Technics Co., LTD.",
+    "price": 3860,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010100.KS",
+    "name": "Korea Flange Co., Ltd",
+    "price": 4105,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010690.KS",
+    "name": "HWASHIN CO.,Ltd",
+    "price": 7680,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "103140.KS",
+    "name": "Poongsan Corporation",
+    "price": 57000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "079980.KS",
+    "name": "Huvis Corporation",
+    "price": 2555,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "361610.KS",
+    "name": "SK IE Technology Co., Ltd.",
+    "price": 21650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "100840.KS",
+    "name": "SNT Energy Co., Ltd.",
+    "price": 31400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008930.KS",
+    "name": "Hanmi Science Co., Ltd.",
+    "price": 25750,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "089590.KS",
+    "name": "Jeju Air Co., Ltd.",
+    "price": 6780,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000990.KS",
+    "name": "DB HiTek CO., LTD.",
+    "price": 41500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "044450.KS",
+    "name": "KSS Line Ltd.",
+    "price": 8780,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003350.KS",
+    "name": "Hankook Cosmetics Manufacturing Co., Ltd",
+    "price": 54000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "016880.KS",
+    "name": "Woongjin Co., Ltd.",
+    "price": 839,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "053690.KS",
+    "name": "HanmiGlobal Co., Ltd.",
+    "price": 14820,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "064350.KS",
+    "name": "Hyundai Rotem Company",
+    "price": 98800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008970.KS",
+    "name": "Dong Yang Steel Pipe Co., Ltd.",
+    "price": 1060,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "088790.KS",
+    "name": "Jindo.Co., Ltd.",
+    "price": 1791,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "030000.KS",
+    "name": "Cheil Worldwide Inc.",
+    "price": 18050,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "034730.KS",
+    "name": "SK Inc.",
+    "price": 126600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "036570.KS",
+    "name": "Ncsoft Corporation",
+    "price": 153100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "018260.KS",
+    "name": "Samsung SDS Co.,Ltd.",
+    "price": 117200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004410.KS",
+    "name": "Seoul Food Industrial.Co.,Ltd",
+    "price": 140,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003490.KS",
+    "name": "Korean Air Lines Co., Ltd.",
+    "price": 21550,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000180.KS",
+    "name": "Sungchang Enterprise Holdings Limited",
+    "price": 1229,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002140.KS",
+    "name": "Korea Industrial Co., Ltd.",
+    "price": 2830,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "138930.KS",
+    "name": "BNK Financial Group Inc.",
+    "price": 9950,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001440.KS",
+    "name": "Taihan Electric Wire Co., Ltd.",
+    "price": 11210,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014280.KS",
+    "name": "Kumkang Kind Co., Ltd.",
+    "price": 4550,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "105630.KS",
+    "name": "Hansae Co., Ltd.",
+    "price": 10210,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "307950.KS",
+    "name": "Hyundai Autoever Corporation",
+    "price": 119400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000240.KS",
+    "name": "Hankook & Company Co., Ltd.",
+    "price": 14730,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "284740.KS",
+    "name": "CUCKOO Homesys Co., Ltd",
+    "price": 20550,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "022100.KS",
+    "name": "Posco Dx Company Ltd.",
+    "price": 24200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002070.KS",
+    "name": "Vivien Corporation",
+    "price": 1020,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "017800.KS",
+    "name": "Hyundai Elevator Co., Ltd",
+    "price": 58400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "020760.KS",
+    "name": "Iljin Display Co., Ltd.",
+    "price": 768,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "214420.KS",
+    "name": "Tonymoly Co., Ltd",
+    "price": 9350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "013570.KS",
+    "name": "DY Corporation",
+    "price": 3790,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001530.KS",
+    "name": "Di Dong Il Corporation",
+    "price": 44850,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "020560.KS",
+    "name": "Asiana Airlines, Inc.",
+    "price": 9940,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010960.KS",
+    "name": "Samho Development Co., LTD",
+    "price": 3025,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011200.KS",
+    "name": "HMM Co.,Ltd",
+    "price": 19600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "069960.KS",
+    "name": "Hyundai Department Store Co. Ltd.",
+    "price": 60400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "306200.KS",
+    "name": "SeAH Steel Corporation",
+    "price": 181500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "192650.KS",
+    "name": "DREAMTECH Co., Ltd.",
+    "price": 6300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "019175.KS",
+    "name": "Shin Poong Pharm.Co.,Ltd.",
+    "price": 11140,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "036460.KS",
+    "name": "Korea Gas Corporation",
+    "price": 34250,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "082740.KS",
+    "name": "HSD Engine Co., Ltd.",
+    "price": 22250,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011070.KS",
+    "name": "LG Innotek Co., Ltd.",
+    "price": 141900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000370.KS",
+    "name": "Hanwha General Insurance Co., Ltd.",
+    "price": 4025,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "183190.KS",
+    "name": "Asia Cement Co.,Ltd.",
+    "price": 10200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006740.KS",
+    "name": "Young Poong Paper Mfg Co.,Ltd.",
+    "price": 944,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "016580.KS",
+    "name": "Whan In Pharm Co.,Ltd.",
+    "price": 11060,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "072130.KS",
+    "name": "UANGEL Corporation",
+    "price": 5350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014680.KS",
+    "name": "Hansol Chemical Co., Ltd.",
+    "price": 112000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "025620.KS",
+    "name": "Jayjun Cosmetic Co., Ltd.",
+    "price": 5040,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006405.KS",
+    "name": "Samsung SDI Co., Ltd.",
+    "price": 107200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002350.KS",
+    "name": "Nexen Tire Corporation",
+    "price": 5210,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001290.KS",
+    "name": "Sangsangin Investment & Securities Co.,Ltd.",
+    "price": 414,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "097520.KS",
+    "name": "MCNEX Co., Ltd",
+    "price": 24050,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002380.KS",
+    "name": "KCC Corporation",
+    "price": 256500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002880.KS",
+    "name": "Dayou A-Tech Co.,Ltd",
+    "price": 951,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "192400.KS",
+    "name": "Cuckoo Holdings Co., Ltd.",
+    "price": 22500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000520.KS",
+    "name": "Samil Pharmaceutical Co.,Ltd",
+    "price": 10870,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010140.KS",
+    "name": "Samsung Heavy Industries Co., Ltd.",
+    "price": 13720,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "078930.KS",
+    "name": "GS Holdings Corp.",
+    "price": 36800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "145270.KS",
+    "name": "K-TOP Reits Co.,Ltd.",
+    "price": 959,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "044380.KS",
+    "name": "JOOYONTECH CO., Ltd",
+    "price": 326,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "081660.KS",
+    "name": "FILA Holdings Corporation",
+    "price": 37700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011420.KS",
+    "name": "Galaxia SM, Inc.",
+    "price": 2000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "457190.KS",
+    "name": "ISU Specialty Chemical Co., Ltd.",
+    "price": 43800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005070.KS",
+    "name": "Cosmo Advanced Materials & Technology Co., Ltd.",
+    "price": 38950,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005880.KS",
+    "name": "Korea Line Corporation",
+    "price": 1545,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "100250.KS",
+    "name": "Chinyang Holdings Corp.",
+    "price": 3075,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "462870.KS",
+    "name": "SHIFT UP",
+    "price": 49600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "018500.KS",
+    "name": "Dongwon Metal Co., Ltd.",
+    "price": 1731,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "114090.KS",
+    "name": "Grand Korea Leisure Co., Ltd.",
+    "price": 11310,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "117580.KS",
+    "name": "Daesung Energy Co., Ltd.",
+    "price": 7600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "028050.KS",
+    "name": "Samsung Engineering Co., Ltd.",
+    "price": 19200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "120030.KS",
+    "name": "CHOSUN WELDING POHANG Co., Ltd",
+    "price": 94700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "028100.KS",
+    "name": "Dong-Ah Geological Engineering Company Ltd.",
+    "price": 13560,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "344820.KS",
+    "name": "KCC GLASS Corporation",
+    "price": 30400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "103590.KS",
+    "name": "Iljin Electric Co.,Ltd",
+    "price": 23550,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011700.KS",
+    "name": "Hanshin Machinery Co., Ltd.",
+    "price": 2680,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "373220.KS",
+    "name": "LG Energy Solution, Ltd.",
+    "price": 329000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "016360.KS",
+    "name": "Samsung Securities Co., Ltd.",
+    "price": 45050,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003780.KS",
+    "name": "Chin Yang Industry Co., Ltd.",
+    "price": 8940,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "294870.KS",
+    "name": "HDC Hyundai Development Company",
+    "price": 22650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "070960.KS",
+    "name": "HJ Magnolia Yongpyong Hotel & Resort",
+    "price": 4120,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "175330.KS",
+    "name": "JB Financial Group Co., Ltd.",
+    "price": 17760,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005870.KS",
+    "name": "Huneed Technologies",
+    "price": 8140,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009415.KS",
+    "name": "Taeyoung Engineering & Construction Co.,Ltd.",
+    "price": 4850,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "034230.KS",
+    "name": "Paradise Co., Ltd.",
+    "price": 11570,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008060.KS",
+    "name": "Daeduck Co.,Ltd.",
+    "price": 7310,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "138040.KS",
+    "name": "Meritz Financial Group Inc.",
+    "price": 118400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "272210.KS",
+    "name": "Hanwha Systems Co., Ltd.",
+    "price": 33350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000660.KS",
+    "name": "SK hynix Inc.",
+    "price": 182200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005830.KS",
+    "name": "DB Insurance Co., Ltd.",
+    "price": 86100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000910.KS",
+    "name": "Union Corporation",
+    "price": 5400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "120115.KS",
+    "name": "Kolon Industries, Inc.",
+    "price": 18890,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001460.KS",
+    "name": "BYC Co., Ltd.",
+    "price": 26500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001070.KS",
+    "name": "Taihan Textile Co., Ltd.",
+    "price": 5090,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004990.KS",
+    "name": "LOTTE Corporation",
+    "price": 21350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "071090.KS",
+    "name": "Histeel Co.,Ltd.",
+    "price": 3490,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "030200.KS",
+    "name": "KT Corporation",
+    "price": 49300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "093370.KS",
+    "name": "Foosung Co., Ltd.",
+    "price": 4370,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "298690.KS",
+    "name": "Air Busan Co., Ltd.",
+    "price": 2015,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005387.KS",
+    "name": "Hyundai Motor Company",
+    "price": 143200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "105560.KS",
+    "name": "KB Financial Group Inc.",
+    "price": 77700,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008040.KS",
+    "name": "Sajodongaone Co.,Ltd",
+    "price": 1029,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "039130.KS",
+    "name": "Hanatour Service Inc.",
+    "price": 53200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011230.KS",
+    "name": "Samwha Electronics Co.,Ltd.",
+    "price": 4170,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "035720.KS",
+    "name": "Kakao Corp.",
+    "price": 41850,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "079550.KS",
+    "name": "LIG Nex1 Co., Ltd.",
+    "price": 257500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "033920.KS",
+    "name": "Muhak Co., Ltd.",
+    "price": 6670,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "271560.KS",
+    "name": "ORION Corp.",
+    "price": 117200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "066575.KS",
+    "name": "LG Electronics Inc.",
+    "price": 35850,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008770.KS",
+    "name": "Hotel Shilla Co.,Ltd",
+    "price": 40500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "285130.KS",
+    "name": "SK Chemicals Co.,Ltd",
+    "price": 38050,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "035420.KS",
+    "name": "NAVER Corporation",
+    "price": 197800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003030.KS",
+    "name": "SeAH Steel Holdings Corporation",
+    "price": 225500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009240.KS",
+    "name": "Hanssem Co., Ltd.",
+    "price": 39550,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "073240.KS",
+    "name": "Kumho Tire Co., Inc.",
+    "price": 4520,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011155.KS",
+    "name": "CJ Seafood Corporation",
+    "price": 17010,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002790.KS",
+    "name": "AMOREPACIFIC Group",
+    "price": 20950,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004150.KS",
+    "name": "Hansol Holdings Co., Ltd.",
+    "price": 2370,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000490.KS",
+    "name": "Daedong Corporation",
+    "price": 10060,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "042660.KS",
+    "name": "Daewoo Shipbuilding & Marine Engineering Co., Ltd.",
+    "price": 69300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "138490.KS",
+    "name": "Kolon Plastics, Inc.",
+    "price": 5750,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "023450.KS",
+    "name": "Dongnam Chemical Co., LTD.",
+    "price": 34250,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "036530.KS",
+    "name": "SNT Holdings Co., Ltd.",
+    "price": 31800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "259960.KS",
+    "name": "KRAFTON, Inc.",
+    "price": 372000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "011170.KS",
+    "name": "Lotte Chemical Corporation",
+    "price": 60900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008350.KS",
+    "name": "Namsun Aluminum Co., Ltd.",
+    "price": 1329,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "298020.KS",
+    "name": "Hyosung TNC Corporation",
+    "price": 212000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007570.KS",
+    "name": "Ilyang Pharmaceutical Co.,Ltd",
+    "price": 10200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "207940.KS",
+    "name": "Samsung Biologics Co.,Ltd.",
+    "price": 1069000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "282330.KS",
+    "name": "BGF retail CO., LTD.",
+    "price": 108500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "145990.KS",
+    "name": "Samyang Corporation",
+    "price": 44100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "161390.KS",
+    "name": "Hankook Tire & Technology Co., Ltd.",
+    "price": 38800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "302440.KS",
+    "name": "SK bioscience Co.,Ltd.",
+    "price": 39400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "051910.KS",
+    "name": "LG Chem, Ltd.",
+    "price": 229500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "071050.KS",
+    "name": "Korea Investment Holdings Co., Ltd.",
+    "price": 72500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "018880.KS",
+    "name": "Hanon Systems",
+    "price": 3460,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004310.KS",
+    "name": "Hyundai Pharmaceutical Co., Ltd.",
+    "price": 3160,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "178920.KS",
+    "name": "PI Advanced Materials Co., Ltd.",
+    "price": 16500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "037270.KS",
+    "name": "YG Plus, Inc.",
+    "price": 5220,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "047810.KS",
+    "name": "Korea Aerospace Industries, Ltd.",
+    "price": 77400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006890.KS",
+    "name": "Taekyung Chemical Co., Ltd.",
+    "price": 11580,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005380.KS",
+    "name": "Hyundai Motor Company",
+    "price": 191800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000880.KS",
+    "name": "Hanwha Corporation",
+    "price": 42500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "015230.KS",
+    "name": "Daechang Forging Co., Ltd.",
+    "price": 4735,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "307520.KS",
+    "name": "Mirae Asset Management - Tiger Holding Company",
+    "price": 9815,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "00806K.KS",
+    "name": "Daeduck Co.,Ltd.",
+    "price": 7430,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "00499K.KS",
+    "name": "LOTTE Corporation",
+    "price": 26250,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "108675.KS",
+    "name": "LX Hausys, Ltd.",
+    "price": 17570,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001465.KS",
+    "name": "BYC Co., Ltd.",
+    "price": 12400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003495.KS",
+    "name": "Korean Air Lines Co., Ltd.",
+    "price": 21250,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "18064K.KS",
+    "name": "Hanjin Kal",
+    "price": 21600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002600.KS",
+    "name": "Choheung Corporation",
+    "price": 161500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001755.KS",
+    "name": "Hanyang Securities Co. Ltd.",
+    "price": 12570,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000885.KS",
+    "name": "Hanwha Corporation",
+    "price": 41600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000145.KS",
+    "name": "Hitejinro Holdings Co., Ltd.",
+    "price": 10160,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003465.KS",
+    "name": "Yuhwa Securities co.,ltd.",
+    "price": 2305,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001527.KS",
+    "name": "Tongyang Inc.",
+    "price": 8300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005725.KS",
+    "name": "Nexen Corporation",
+    "price": 3265,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "00781K.KS",
+    "name": "Korea Circuit Co., Ltd.",
+    "price": 5380,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007610.KS",
+    "name": "Seondo Electric Co., Ltd.",
+    "price": 2995,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001470.KS",
+    "name": "Sambu Engineering & Construction Co., Ltd",
+    "price": 347,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001570.KS",
+    "name": "Kumyang Co., Ltd.",
+    "price": 9900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002410.KS",
+    "name": "Bumyang Construction Co.,Ltd.",
+    "price": 1935,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "119650.KS",
+    "name": "KC Cottrell Co., Ltd.",
+    "price": 459,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009440.KS",
+    "name": "KC Green Holdings Co., Ltd.",
+    "price": 756,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "148250.KS",
+    "name": "RN2 Technologies Co Ltd",
+    "price": 4195,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "085370.KS",
+    "name": "Lutronic Corp",
+    "price": null,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "131390.KS",
+    "name": "Wonik Pne Co Ltd",
+    "price": null,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "214310.KS",
+    "name": "SL Vionics Co Ltd",
+    "price": null,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "036540.KS",
+    "name": "SFA Semicon Co Ltd",
+    "price": 4945,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "035200.KS",
+    "name": "Plumb Fast Co Ltd",
+    "price": 2990,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "217600.KS",
+    "name": "Chemon Inc",
+    "price": null,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003560.KS",
+    "name": "IHQ Inc.",
+    "price": 3585,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "204210.KS",
+    "name": "MODE TOUR Real Estate Investment Trust Incorporated",
+    "price": 2035,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "054540.KS",
+    "name": "Samyoung M-Tek Co Ltd",
+    "price": 4905,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "060370.KS",
+    "name": "KT Submarine Co Ltd",
+    "price": 21150,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "056080.KS",
+    "name": "Yujin Robot Co Ltd",
+    "price": 7290,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "217820.KS",
+    "name": "NS Co Ltd",
+    "price": 3895,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "033180.KS",
+    "name": "KH Feelux Co., Ltd.",
+    "price": 442,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "298000.KS",
+    "name": "Hyosung Chemical Corporation",
+    "price": 38900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006380.KS",
+    "name": "Capro Corporation",
+    "price": 732,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "110790.KS",
+    "name": "Creas F&C Co Ltd",
+    "price": 8080,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "189860.KS",
+    "name": "Seojeon Electric Machinery Co Ltd",
+    "price": 6200,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "060150.KS",
+    "name": "Insun Environmental New Technology Co Ltd",
+    "price": 7070,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "096240.KS",
+    "name": "Creverse Inc",
+    "price": 16780,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "060380.KS",
+    "name": "Dongyang S Tec Co Ltd",
+    "price": 2010,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005030.KS",
+    "name": "Pusan Cast Iron Co., Ltd.",
+    "price": 486,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "041020.KS",
+    "name": "Polaris Office Corp",
+    "price": 7140,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "064290.KS",
+    "name": "INTEKPLUS Co Ltd",
+    "price": 20600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "064550.KS",
+    "name": "Bioneer Corp",
+    "price": 34850,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "064760.KS",
+    "name": "Tokai Carbon Korea Co Ltd",
+    "price": 119900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "199800.KS",
+    "name": "ToolGen Inc",
+    "price": 73900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "065680.KS",
+    "name": "Uju Electronics Co Ltd",
+    "price": 15850,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "066310.KS",
+    "name": "QSI Co Ltd",
+    "price": 8430,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "206560.KS",
+    "name": "Dexter Studios Co Ltd",
+    "price": 6160,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "038010.KS",
+    "name": "Jeil Technos Co Ltd",
+    "price": 7750,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "052020.KS",
+    "name": "Stcube Inc",
+    "price": 4770,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "054210.KS",
+    "name": "Elentec Co Ltd",
+    "price": 8350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "068760.KS",
+    "name": "Celltrion Pharm Inc",
+    "price": 93500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "015590.KS",
+    "name": "Curo Co.,Ltd.",
+    "price": 515,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008110.KS",
+    "name": "Daidong Electronics Co. Ltd.",
+    "price": 15040,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "067900.KS",
+    "name": "Y-Entec Co Ltd",
+    "price": 7670,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "091090.KS",
+    "name": "SEWON E&C CO., Ltd.",
+    "price": 254,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "067990.KS",
+    "name": "Deutsch Motors Inc",
+    "price": 4630,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "068330.KS",
+    "name": "ilShinbiobase Co Ltd",
+    "price": 1256,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "340570.KS",
+    "name": "T&L Co Ltd",
+    "price": 78900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "092730.KS",
+    "name": "NeoPharm CO., LTD.",
+    "price": 11460,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "049070.KS",
+    "name": "Intops Co Ltd",
+    "price": 22750,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "217620.KS",
+    "name": "Didim Inc",
+    "price": 381,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "034300.KS",
+    "name": "Shinsegae Engineering & Construction Inc.",
+    "price": 18160,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "101330.KS",
+    "name": "MOBASE Co Ltd",
+    "price": 3680,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "228760.KS",
+    "name": "Genomictree Inc",
+    "price": 21100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "039830.KS",
+    "name": "Aurora World Corp",
+    "price": 6410,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "097870.KS",
+    "name": "Hyosung ONB Co Ltd",
+    "price": 7110,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "071200.KS",
+    "name": "Infinitt Healthcare Co Ltd",
+    "price": 4880,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "071670.KS",
+    "name": "A-Tech Solution Co Ltd",
+    "price": 8120,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "093230.KS",
+    "name": "E Investment&Development Co., Ltd.",
+    "price": 1392,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "036180.KS",
+    "name": "GW Vitek Co Ltd",
+    "price": 516,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "241690.KS",
+    "name": "Unitekno Co Ltd",
+    "price": 4030,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "043650.KS",
+    "name": "Kook Soon Dang Co Ltd",
+    "price": 6210,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "099190.KS",
+    "name": "i-SENS Inc",
+    "price": 21000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "159580.KS",
+    "name": "Zero to Seven Inc",
+    "price": 5100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "200130.KS",
+    "name": "Kolmar BNH Co Ltd",
+    "price": 16780,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "069080.KS",
+    "name": "Webzen Inc",
+    "price": 15930,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "073490.KS",
+    "name": "InnoWireless Co Ltd",
+    "price": 20550,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000300.KS",
+    "name": "Dayou Plus Co.,Ltd",
+    "price": 241,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010600.KS",
+    "name": "Wellbiotec Co., Ltd.",
+    "price": 545,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001140.KS",
+    "name": "KUKBO Logistics Co., Ltd.",
+    "price": 2110,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "026910.KS",
+    "name": "Kwang Jin Industry Co Ltd",
+    "price": 2855,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "134580.KS",
+    "name": "Topco Media Co Ltd",
+    "price": 2750,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "045510.KS",
+    "name": "Zungwon En-Sys Inc",
+    "price": 1111,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "122350.KS",
+    "name": "Samkee Corp",
+    "price": 1701,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "075130.KS",
+    "name": "PLANTYNET Co Ltd",
+    "price": 2205,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "208140.KS",
+    "name": "Jungdawn Co Ltd",
+    "price": 2805,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "054300.KS",
+    "name": "Panstar Enterprise Co Ltd",
+    "price": 545,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "226350.KS",
+    "name": "IM Tech Inc",
+    "price": 675,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "058630.KS",
+    "name": "Mgame Corp",
+    "price": 5850,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "065350.KS",
+    "name": "Shinsung Delta Tech Co Ltd",
+    "price": 55300,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "066670.KS",
+    "name": "Display Tech Co Ltd",
+    "price": 4000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "067630.KS",
+    "name": "HLB Life Science Co Ltd",
+    "price": 11250,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "081580.KS",
+    "name": "Sungwoo Electronics Co Ltd",
+    "price": 3385,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "059090.KS",
+    "name": "MiCo Ltd",
+    "price": 13830,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "178320.KS",
+    "name": "Seojin System Co Ltd",
+    "price": 29900,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "243840.KS",
+    "name": "Shin Heung Energy & Electronics Co Ltd",
+    "price": 8040,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "265520.KS",
+    "name": "Advanced Process Systems Corp",
+    "price": 22600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "950130.KS",
+    "name": "Access Bio Inc",
+    "price": 6390,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "023910.KS",
+    "name": "Daihan Pharmaceutical Co.",
+    "price": 25800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000060.KS",
+    "name": "Meritz Fire & Marine Insurance Co., Ltd.",
+    "price": 51600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001725.KS",
+    "name": "Shinyoung Securities Co., Ltd.",
+    "price": 63800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001880.KS",
+    "name": "DL Construction Co., Ltd.",
+    "price": 14350,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "003410.KS",
+    "name": "SsangYong C&E Co., Ltd.",
+    "price": 7010,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "030790.KS",
+    "name": "BK TOPS Co., Ltd.",
+    "price": 8,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "008560.KS",
+    "name": "Meritz Securities Co., Ltd.",
+    "price": 6100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009275.KS",
+    "name": "ShinWon Corporation",
+    "price": 1800,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "002270.KS",
+    "name": "Lotte Food Co.,Ltd.",
+    "price": 311000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "068400.KS",
+    "name": "SK Rent A Car Co., Ltd",
+    "price": 9600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "007630.KS",
+    "name": "Polus BioPharm Inc.",
+    "price": 45,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "015350.KS",
+    "name": "Busan City Gas. Co. Ltd.",
+    "price": 84400,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "016385.KS",
+    "name": "KG Dongbu Steel Co.,Ltd.",
+    "price": 368500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "101060.KS",
+    "name": "SBS Media Holdings Co., Ltd.",
+    "price": 1930,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "153360.KS",
+    "name": "Hi Gold Ocean No.3 Ship Investment Company",
+    "price": 2770,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "155900.KS",
+    "name": "Badaro No. 19 Ship Investment Company",
+    "price": 3135,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "115390.KS",
+    "name": "Lock&Lock Co., Ltd.",
+    "price": 8660,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "172580.KS",
+    "name": "Hi Gold Ocean Kmarin No.12 Ship Investment Company",
+    "price": 2785,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "138250.KS",
+    "name": "NS Shopping Co., Ltd",
+    "price": 14000,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "282690.KS",
+    "name": "Dong Ah Tire & Rubber Co.,Ltd",
+    "price": 13500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "009730.KS",
+    "name": "Kossen Co Ltd",
+    "price": 1764,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001529.KS",
+    "name": "Tongyang Inc.",
+    "price": 2095,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "056730.KS",
+    "name": "CNT85 Inc",
+    "price": 868,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "095910.KS",
+    "name": "S-Energy Co Ltd",
+    "price": 1848,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "036710.KS",
+    "name": "Simmtech Holdings Co",
+    "price": 2380,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "183490.KS",
+    "name": "Enzychem Lifesciences Corp",
+    "price": 1710,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "140910.KS",
+    "name": "A Self-Administered Real Estate Investment Trust Inc.",
+    "price": 3130,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005110.KS",
+    "name": "Hanchang Corporation",
+    "price": 1254,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "102280.KS",
+    "name": "SBW, Inc.",
+    "price": 269,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000995.KS",
+    "name": "DB HiTek CO., LTD.",
+    "price": 17500,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010145.KS",
+    "name": "Samsung Heavy Industries Co., Ltd.",
+    "price": 6580,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "001745.KS",
+    "name": "SK Networks Company Limited",
+    "price": 3600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "004565.KS",
+    "name": "Hyundai Bng Steel Co., Ltd.",
+    "price": 4910,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "000547.KS",
+    "name": "Heungkuk Fire & Marine Insurance Co., Ltd.",
+    "price": 3180,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "005290.KS",
+    "name": "Dongjin Semichem Co Ltd",
+    "price": 37600,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "006140.KS",
+    "name": "PJ Electronics Co Ltd",
+    "price": 6310,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "013030.KS",
+    "name": "HY-LOK Corp",
+    "price": 26650,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "014970.KS",
+    "name": "Samryoong Co Ltd",
+    "price": 4195,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "015750.KS",
+    "name": "Sungwoo Hitech Co Ltd",
+    "price": 8020,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "016100.KS",
+    "name": "Leaders Cosmetics Co Ltd",
+    "price": 3155,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "025900.KS",
+    "name": "Dongwha Enterprise Co Ltd",
+    "price": 13290,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "029960.KS",
+    "name": "Korea Environment Technology Co Ltd",
+    "price": 7180,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "030520.KS",
+    "name": "Hancom Inc",
+    "price": 20100,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "033500.KS",
+    "name": "Dongsung FineTec Co Ltd",
+    "price": 12560,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "032850.KS",
+    "name": "BIT Computer Co Ltd",
+    "price": 5620,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  },
+  {
+    "symbol": "010050.KS",
+    "name": "Woori Investment Bank Co.,Ltd.",
+    "price": 707,
+    "exchange": "KSE",
+    "exchangeShortName": "KSC",
+    "type": "stock"
+  }
+]
