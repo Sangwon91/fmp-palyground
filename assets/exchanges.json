@@ -1,0 +1,351 @@
+{
+  "exchanges": [
+    "AMEX",
+    "AMS",
+    "AQS",
+    "ASX",
+    "ATH",
+    "BER",
+    "BME",
+    "BRU",
+    "BSE",
+    "BUD",
+    "BUE",
+    "BVC",
+    "CNQ",
+    "CPH",
+    "DFM",
+    "DOH",
+    "DUS",
+    "DXE",
+    "EGX",
+    "EURONEXT",
+    "HAM",
+    "HEL",
+    "HKSE",
+    "HOSE",
+    "ICE",
+    "IOB",
+    "IST",
+    "JKT",
+    "JNB",
+    "JPX",
+    "KLS",
+    "KOE",
+    "KSC",
+    "KUW",
+    "LSE",
+    "MCX",
+    "MEX",
+    "MIL",
+    "MUN",
+    "NASDAQ",
+    "NEO",
+    "NSE",
+    "NYSE",
+    "NZE",
+    "OSL",
+    "OTC",
+    "PAR",
+    "PNK",
+    "PRA",
+    "RIS",
+    "SAO",
+    "SAU",
+    "SES",
+    "SET",
+    "SGO",
+    "SHH",
+    "SHZ",
+    "SIX",
+    "STO",
+    "STU",
+    "TAI",
+    "TAL",
+    "TLV",
+    "TSX",
+    "TSXV",
+    "TWO",
+    "VIE",
+    "WSE",
+    "XETRA"
+  ],
+  "exchangeInfo": {
+    "JNB": {
+      "fullName": "Johannesburg",
+      "stockCount": 236
+    },
+    "DUS": {
+      "fullName": "Dusseldorf",
+      "stockCount": 15
+    },
+    "STO": {
+      "fullName": "Stockholm Stock Exchange",
+      "stockCount": 917
+    },
+    "CPH": {
+      "fullName": "Copenhagen",
+      "stockCount": 535
+    },
+    "HEL": {
+      "fullName": "Helsinki",
+      "stockCount": 185
+    },
+    "DXE": {
+      "fullName": "Cboe Europe",
+      "stockCount": 13
+    },
+    "OSL": {
+      "fullName": "Oslo Stock Exchange",
+      "stockCount": 317
+    },
+    "XETRA": {
+      "fullName": "Frankfurt Stock Exchange",
+      "stockCount": 1268
+    },
+    "STU": {
+      "fullName": "Stuttgart",
+      "stockCount": 35
+    },
+    "ICE": {
+      "fullName": "Iceland",
+      "stockCount": 25
+    },
+    "TAL": {
+      "fullName": "Tallinn",
+      "stockCount": 2
+    },
+    "BER": {
+      "fullName": "Berlin",
+      "stockCount": 17
+    },
+    "LSE": {
+      "fullName": "London Stock Exchange",
+      "stockCount": 3574
+    },
+    "EURONEXT": {
+      "fullName": "Paris",
+      "stockCount": 999
+    },
+    "IST": {
+      "fullName": "Istanbul Stock Exchange",
+      "stockCount": 139
+    },
+    "SIX": {
+      "fullName": "Swiss Exchange",
+      "stockCount": 409
+    },
+    "AMS": {
+      "fullName": "Amsterdam",
+      "stockCount": 150
+    },
+    "WSE": {
+      "fullName": "Warsaw Stock Exchange",
+      "stockCount": 446
+    },
+    "BME": {
+      "fullName": "Madrid Stock Exchange",
+      "stockCount": 179
+    },
+    "MIL": {
+      "fullName": "Milan",
+      "stockCount": 288
+    },
+    "BUD": {
+      "fullName": "Budapest",
+      "stockCount": 6
+    },
+    "ATH": {
+      "fullName": "Athens",
+      "stockCount": 96
+    },
+    "IOB": {
+      "fullName": "International Order Book",
+      "stockCount": 59
+    },
+    "BRU": {
+      "fullName": "Brussels",
+      "stockCount": 204
+    },
+    "VIE": {
+      "fullName": "Vienna",
+      "stockCount": 102
+    },
+    "PRA": {
+      "fullName": "Prague",
+      "stockCount": 10
+    },
+    "HAM": {
+      "fullName": "Hamburg",
+      "stockCount": 11
+    },
+    "RIS": {
+      "fullName": "Riga",
+      "stockCount": 1
+    },
+    "MUN": {
+      "fullName": "Munich",
+      "stockCount": 14
+    },
+    "PAR": {
+      "fullName": "Paris",
+      "stockCount": 1
+    },
+    "DFM": {
+      "fullName": "Dubai",
+      "stockCount": 22
+    },
+    "BSE": {
+      "fullName": "Bombay Stock Exchange",
+      "stockCount": 3971
+    },
+    "NSE": {
+      "fullName": "National Stock Exchange of India",
+      "stockCount": 2242
+    },
+    "SET": {
+      "fullName": "Thailand",
+      "stockCount": 1001
+    },
+    "AQS": {
+      "fullName": "Aquis AQSE",
+      "stockCount": 2
+    },
+    "SES": {
+      "fullName": "Stock Exchange of Singapore",
+      "stockCount": 190
+    },
+    "KLS": {
+      "fullName": "Kuala Lumpur",
+      "stockCount": 317
+    },
+    "HOSE": {
+      "fullName": "Ho Chi Minh Stock Exchange",
+      "stockCount": 1
+    },
+    "KSC": {
+      "fullName": "KSE",
+      "stockCount": 1020
+    },
+    "KOE": {
+      "fullName": "KOSDAQ",
+      "stockCount": 373
+    },
+    "JPX": {
+      "fullName": "Tokyo",
+      "stockCount": 4007
+    },
+    "ASX": {
+      "fullName": "Australian Securities Exchange",
+      "stockCount": 2167
+    },
+    "NZE": {
+      "fullName": "New Zealand Exchange",
+      "stockCount": 141
+    },
+    "NASDAQ": {
+      "fullName": "NASDAQ",
+      "stockCount": 7124
+    },
+    "NEO": {
+      "fullName": "CBOE CA",
+      "stockCount": 80
+    },
+    "SAO": {
+      "fullName": "São Paulo",
+      "stockCount": 487
+    },
+    "BUE": {
+      "fullName": "Buenos Aires",
+      "stockCount": 48
+    },
+    "TSX": {
+      "fullName": "Toronto Stock Exchange",
+      "stockCount": 997
+    },
+    "NYSE": {
+      "fullName": "New York Stock Exchange",
+      "stockCount": 3906
+    },
+    "PNK": {
+      "fullName": "Other OTC",
+      "stockCount": 13026
+    },
+    "BVC": {
+      "fullName": "Colombia Stock Exchange",
+      "stockCount": 1
+    },
+    "AMEX": {
+      "fullName": "New York Stock Exchange Arca",
+      "stockCount": 359
+    },
+    "OTC": {
+      "fullName": "Other OTC",
+      "stockCount": 720
+    },
+    "TSXV": {
+      "fullName": "Toronto Stock Exchange Ventures",
+      "stockCount": 1038
+    },
+    "CNQ": {
+      "fullName": "Canadian Securities Exchange",
+      "stockCount": 736
+    },
+    "MEX": {
+      "fullName": "Mexico",
+      "stockCount": 149
+    },
+    "SGO": {
+      "fullName": "Santiago",
+      "stockCount": 46
+    },
+    "TLV": {
+      "fullName": "Tel Aviv",
+      "stockCount": 553
+    },
+    "EGX": {
+      "fullName": "Egyptian Exchange",
+      "stockCount": 3
+    },
+    "SAU": {
+      "fullName": "Saudi",
+      "stockCount": 368
+    },
+    "KUW": {
+      "fullName": "Kuwait",
+      "stockCount": 6
+    },
+    "HKSE": {
+      "fullName": "Hong Kong Stock Exchange",
+      "stockCount": 2742
+    },
+    "SHZ": {
+      "fullName": "Shenzhen",
+      "stockCount": 2457
+    },
+    "SHH": {
+      "fullName": "Shanghai",
+      "stockCount": 2026
+    },
+    "TWO": {
+      "fullName": "Taipei Exchange",
+      "stockCount": 1154
+    },
+    "TAI": {
+      "fullName": "Taiwan",
+      "stockCount": 1048
+    },
+    "DOH": {
+      "fullName": "Qatar",
+      "stockCount": 40
+    },
+    "JKT": {
+      "fullName": "Jakarta Stock Exchange",
+      "stockCount": 882
+    },
+    "MCX": {
+      "fullName": "Moscow Stock Exchange",
+      "stockCount": 241
+    }
+  }
+}
