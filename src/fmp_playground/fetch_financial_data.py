@@ -3,6 +3,7 @@ import os
 from typing import Any
 import requests
 from datetime import datetime
+from pathlib import Path
 
 class FMPFinancialDataFetcher:
     """FMP API를 사용하여 기업의 재무제표 데이터를 조회하는 클래스.
@@ -53,7 +54,7 @@ class FMPFinancialDataFetcher:
         
         return response.json()
     
-    def get_income_statement(self, symbol: str, period: str = 'annual', limit: int = 5) -> dict:
+    def get_income_statement(self, symbol: str, period: str = 'annual', limit: int | None = None) -> dict:
         """손익계산서 데이터 조회.
         
         Parameters
@@ -62,17 +63,20 @@ class FMPFinancialDataFetcher:
             기업 심볼
         period : str, optional
             데이터 주기 ('annual' 또는 'quarter'), by default 'annual'
-        limit : int, optional
-            조회할 데이터 수, by default 5
+        limit : int | None, optional
+            조회할 데이터 수, by default None
+            None인 경우 period에 따라 자동으로 설정 (annual: 5, quarter: 20)
             
         Returns
         -------
         dict
             손익계산서 데이터
         """
+        if limit is None:
+            limit = 5 if period == 'annual' else 20
         return self._make_request(f'income-statement/{symbol}', {'period': period, 'limit': limit})
     
-    def get_balance_sheet(self, symbol: str, period: str = 'annual', limit: int = 5) -> dict:
+    def get_balance_sheet(self, symbol: str, period: str = 'annual', limit: int | None = None) -> dict:
         """재무상태표 데이터 조회.
         
         Parameters
@@ -81,17 +85,20 @@ class FMPFinancialDataFetcher:
             기업 심볼
         period : str, optional
             데이터 주기 ('annual' 또는 'quarter'), by default 'annual'
-        limit : int, optional
-            조회할 데이터 수, by default 5
+        limit : int | None, optional
+            조회할 데이터 수, by default None
+            None인 경우 period에 따라 자동으로 설정 (annual: 5, quarter: 20)
             
         Returns
         -------
         dict
             재무상태표 데이터
         """
+        if limit is None:
+            limit = 5 if period == 'annual' else 20
         return self._make_request(f'balance-sheet-statement/{symbol}', {'period': period, 'limit': limit})
     
-    def get_cash_flow(self, symbol: str, period: str = 'annual', limit: int = 5) -> dict:
+    def get_cash_flow(self, symbol: str, period: str = 'annual', limit: int | None = None) -> dict:
         """현금흐름표 데이터 조회.
         
         Parameters
@@ -100,17 +107,20 @@ class FMPFinancialDataFetcher:
             기업 심볼
         period : str, optional
             데이터 주기 ('annual' 또는 'quarter'), by default 'annual'
-        limit : int, optional
-            조회할 데이터 수, by default 5
+        limit : int | None, optional
+            조회할 데이터 수, by default None
+            None인 경우 period에 따라 자동으로 설정 (annual: 5, quarter: 20)
             
         Returns
         -------
         dict
             현금흐름표 데이터
         """
+        if limit is None:
+            limit = 5 if period == 'annual' else 20
         return self._make_request(f'cash-flow-statement/{symbol}', {'period': period, 'limit': limit})
     
-    def get_financial_ratios(self, symbol: str, period: str = 'annual', limit: int = 5) -> dict:
+    def get_financial_ratios(self, symbol: str, period: str = 'annual', limit: int | None = None) -> dict:
         """재무비율 데이터 조회.
         
         Parameters
@@ -119,17 +129,20 @@ class FMPFinancialDataFetcher:
             기업 심볼
         period : str, optional
             데이터 주기 ('annual' 또는 'quarter'), by default 'annual'
-        limit : int, optional
-            조회할 데이터 수, by default 5
+        limit : int | None, optional
+            조회할 데이터 수, by default None
+            None인 경우 period에 따라 자동으로 설정 (annual: 5, quarter: 20)
             
         Returns
         -------
         dict
             재무비율 데이터
         """
+        if limit is None:
+            limit = 5 if period == 'annual' else 20
         return self._make_request(f'ratios/{symbol}', {'period': period, 'limit': limit})
     
-    def get_key_metrics(self, symbol: str, period: str = 'annual', limit: int = 5) -> dict:
+    def get_key_metrics(self, symbol: str, period: str = 'annual', limit: int | None = None) -> dict:
         """주요 메트릭스 데이터 조회.
         
         Parameters
@@ -138,14 +151,17 @@ class FMPFinancialDataFetcher:
             기업 심볼
         period : str, optional
             데이터 주기 ('annual' 또는 'quarter'), by default 'annual'
-        limit : int, optional
-            조회할 데이터 수, by default 5
+        limit : int | None, optional
+            조회할 데이터 수, by default None
+            None인 경우 period에 따라 자동으로 설정 (annual: 5, quarter: 20)
             
         Returns
         -------
         dict
             주요 메트릭스 데이터
         """
+        if limit is None:
+            limit = 5 if period == 'annual' else 20
         return self._make_request(f'key-metrics/{symbol}', {'period': period, 'limit': limit})
     
     def get_ltm_data(self, symbol: str) -> dict:
@@ -185,25 +201,124 @@ class FMPFinancialDataFetcher:
             'metrics': self._make_request(f'key-metrics-ttm/{symbol}')
         }
 
+def load_companies(country: str | None = None) -> list[dict]:
+    """모든 국가 또는 특정 국가의 기업 목록을 로드.
+    
+    Parameters
+    ----------
+    country : str | None, optional
+        국가 코드 (예: 'KR', 'US', 'JP', 'CN'), by default None
+        None인 경우 모든 국가의 기업 목록을 반환
+        
+    Returns
+    -------
+    list[dict]
+        기업 목록
+        
+    Examples
+    --------
+    # 모든 국가의 기업 목록 로드
+    >>> companies = load_companies()
+    
+    # 한국 기업만 로드
+    >>> kr_companies = load_companies('KR')
+    
+    # 미국 기업만 로드
+    >>> us_companies = load_companies('US')
+    """
+    companies = []
+    assets_dir = Path('assets')
+    
+    # 국가별 거래소 매핑
+    country_exchanges = {
+        'KR': ['KR_KSC', 'KR_KOE'],  # KOSPI, KOSDAQ
+        'US': ['US_NYSE', 'US_NASDAQ', 'US_AMEX'],  # NYSE, NASDAQ, AMEX
+        'JP': ['JP_JPX'],  # Japan Exchange
+        'CN': ['CN_SHH', 'CN_SHZ']  # Shanghai, Shenzhen
+    }
+    
+    # 파일 목록 필터링
+    if country:
+        if country not in country_exchanges:
+            raise ValueError(f"지원하지 않는 국가 코드입니다: {country}")
+        target_exchanges = country_exchanges[country]
+        company_files = [f for f in assets_dir.glob('*_companies.json')
+                        if any(f.stem.startswith(ex) for ex in target_exchanges)]
+    else:
+        company_files = list(assets_dir.glob('*_companies.json'))
+    
+    # 파일에서 기업 정보 로드
+    for file_path in company_files:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            companies.extend(json.load(f))
+    
+    return companies
+
 def load_korean_companies() -> list[dict]:
-    """한국 기업 목록을 로드.
+    """한국 기업 목록을 로드 (이전 버전과의 호환성을 위해 유지).
     
     Returns
     -------
     list[dict]
         한국 기업 목록 (KOSPI + KOSDAQ)
     """
-    companies = []
+    return load_companies('KR')
+
+def find_company_by_symbol(symbol: str) -> tuple[dict, str]:
+    """심볼로 기업 정보와 국가 코드를 찾음.
     
-    # KOSPI 기업 로드
-    with open('assets/KR_KSC_companies.json', 'r', encoding='utf-8') as f:
-        companies.extend(json.load(f))
+    Parameters
+    ----------
+    symbol : str
+        기업 심볼 (예: '005930.KS', 'AAPL', '7203.T')
+        
+    Returns
+    -------
+    tuple[dict, str]
+        (기업 정보, 국가 코드)
+        
+    Raises
+    ------
+    ValueError
+        해당 심볼의 기업을 찾을 수 없는 경우
+        
+    Examples
+    --------
+    >>> company, country = find_company_by_symbol('005930.KS')
+    >>> print(country)
+    'KR'
+    >>> print(company['name'])
+    '삼성전자'
+    """
+    # 심볼 접미사와 국가 매핑
+    suffix_to_country = {
+        '.KS': 'KR',  # KOSPI
+        '.KQ': 'KR',  # KOSDAQ
+        '.T': 'JP',   # Tokyo Stock Exchange
+        '.SS': 'CN',  # Shanghai Stock Exchange
+        '.SZ': 'CN',  # Shenzhen Stock Exchange
+    }
     
-    # KOSDAQ 기업 로드
-    with open('assets/KR_KOE_companies.json', 'r', encoding='utf-8') as f:
-        companies.extend(json.load(f))
+    # 미국 주식은 접미사가 없음
+    for suffix, country in suffix_to_country.items():
+        if symbol.endswith(suffix):
+            companies = load_companies(country)
+            try:
+                company = next(c for c in companies if c['symbol'] == symbol)
+                return company, country
+            except StopIteration:
+                continue
     
-    return companies
+    # 접미사가 없는 경우 미국 주식으로 가정
+    companies = load_companies('US')
+    try:
+        company = next(c for c in companies if c['symbol'] == symbol)
+        return company, 'US'
+    except StopIteration:
+        pass
+    
+    # 모든 국가에서 찾을 수 없는 경우
+    raise ValueError(f"심볼 '{symbol}'에 해당하는 기업을 찾을 수 없습니다.")
 
 def main():
     # API 키 환경변수에서 로드

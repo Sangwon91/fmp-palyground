@@ -1,10 +1,20 @@
 #!/usr/bin/env python
 """
-한국 기업의 재무제표 데이터를 조회하는 스크립트.
+기업의 재무제표 데이터를 조회하는 스크립트.
 
 Example
 -------
+# 삼성전자(한국)
 $ python scripts/fetch_kr_financial_data.py --symbol 005930.KS
+
+# Apple(미국)
+$ python scripts/fetch_kr_financial_data.py --symbol AAPL
+
+# Toyota(일본)
+$ python scripts/fetch_kr_financial_data.py --symbol 7203.T
+
+# Kweichow Moutai(중국)
+$ python scripts/fetch_kr_financial_data.py --symbol 600519.SS
 """
 
 import os
@@ -15,7 +25,10 @@ from datetime import datetime
 from dotenv import load_dotenv
 from pathlib import Path
 
-from fmp_playground.fetch_financial_data import FMPFinancialDataFetcher, load_korean_companies
+from fmp_playground.fetch_financial_data import (
+    FMPFinancialDataFetcher,
+    find_company_by_symbol
+)
 
 def setup_argparser() -> argparse.ArgumentParser:
     """커맨드라인 인자 파서를 설정.
@@ -25,8 +38,9 @@ def setup_argparser() -> argparse.ArgumentParser:
     argparse.ArgumentParser
         설정된 인자 파서
     """
-    parser = argparse.ArgumentParser(description='한국 기업의 재무제표 데이터를 조회')
-    parser.add_argument('--symbol', type=str, help='조회할 기업의 심볼 (예: 005930.KS)')
+    parser = argparse.ArgumentParser(description='기업의 재무제표 데이터를 조회')
+    parser.add_argument('--symbol', type=str, default='005930.KS',
+                       help='조회할 기업의 심볼 (예: 005930.KS, AAPL, 7203.T)')
     return parser
 
 def fetch_financial_data(fetcher: FMPFinancialDataFetcher, symbol: str, period: str = 'annual') -> dict:
@@ -79,45 +93,36 @@ def main():
     # 데이터 fetcher 초기화
     fetcher = FMPFinancialDataFetcher(api_key)
     
-    # 한국 기업 목록 로드
-    companies = load_korean_companies()
-    
-    # 심볼이 제공되지 않은 경우 삼성전자를 기본값으로 사용
-    symbol = args.symbol or '005930.KS'
-    
-    # 기업 정보 찾기
-    try:
-        company = next(company for company in companies if company['symbol'] == symbol)
-    except StopIteration:
-        raise ValueError(f"심볼 '{symbol}'에 해당하는 기업을 찾을 수 없습니다.")
-    
-    print(f"대상 기업: {company['name']} ({company['symbol']})")
+    # 심볼로 기업 정보와 국가 찾기
+    company, country = find_company_by_symbol(args.symbol)
+    print(f"대상 기업: {company['name']} ({company['symbol']}, {country})")
     
     try:
         # 1. 연간 데이터 조회
-        annual_data = fetch_financial_data(fetcher, symbol, 'annual')
+        annual_data = fetch_financial_data(fetcher, args.symbol, 'annual')
         
         # 2. 분기별 데이터 조회
-        quarterly_data = fetch_financial_data(fetcher, symbol, 'quarter')
+        quarterly_data = fetch_financial_data(fetcher, args.symbol, 'quarter')
         
         # 3. LTM 데이터 조회
         print("\nLTM 데이터 조회 중...")
-        ltm_data = fetcher.get_ltm_data(symbol)
+        ltm_data = fetcher.get_ltm_data(args.symbol)
         
         # 4. TTM 데이터 조회
         print("\nTTM 데이터 조회 중...")
-        ttm_data = fetcher.get_ttm_data(symbol)
+        ttm_data = fetcher.get_ttm_data(args.symbol)
         
         # 결과 저장
         output_dir = Path('data/financial_statements')
         output_dir.mkdir(parents=True, exist_ok=True)
         
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-        output_file = output_dir / f"{symbol.replace('.', '_')}_{timestamp}.json"
+        output_file = output_dir / f"{args.symbol.replace('.', '_')}_{timestamp}.json"
         
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump({
                 'company_info': company,
+                'country': country,
                 'annual_data': annual_data,
                 'quarterly_data': quarterly_data,
                 'ltm_data': ltm_data,
