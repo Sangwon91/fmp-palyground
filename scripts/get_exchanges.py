@@ -1,6 +1,5 @@
 import os
 import json
-from collections import defaultdict
 from pathlib import Path
 import requests
 from dotenv import load_dotenv
