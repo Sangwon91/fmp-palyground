@@ -14,5 +14,5 @@ mkdir data
 
 ## 3. 실행
 ```
-uv run python scripts/fetch_all_companices_data.py
+uv run python scripts/fetch_all_companies_data.py
 ```
