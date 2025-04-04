@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ignored by lakectl local
+data/*
+!data/.lakefs_ref.yaml
+# End ignored by lakectl local
