@@ -7,7 +7,11 @@ authors = [
     { name = "Sangwon Lee", email = "lsw91.main@gmail.com" }
 ]
 requires-python = ">=3.10"
-dependencies = []
+dependencies = [
+    "pandas>=2.2.3",
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+]
 
 [build-system]
 requires = ["hatchling"]
