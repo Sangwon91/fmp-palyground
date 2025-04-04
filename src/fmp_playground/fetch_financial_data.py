@@ -2,7 +2,6 @@ import json
 import os
 from typing import Any
 import requests
-import pandas as pd
 from datetime import datetime
 
 class FMPFinancialDataFetcher:
@@ -167,6 +166,24 @@ class FMPFinancialDataFetcher:
             'balance_sheet': self._make_request(f'balance-sheet-statement-ltm/{symbol}'),
             'cash_flow': self._make_request(f'cash-flow-statement-ltm/{symbol}')
         }
+    
+    def get_ttm_data(self, symbol: str) -> dict:
+        """TTM 데이터 조회.
+        
+        Parameters
+        ----------
+        symbol : str
+            기업 심볼
+            
+        Returns
+        -------
+        dict
+            TTM 데이터 (재무비율, 주요 메트릭스)
+        """
+        return {
+            'ratios': self._make_request(f'ratios-ttm/{symbol}'),
+            'metrics': self._make_request(f'key-metrics-ttm/{symbol}')
+        }
 
 def load_korean_companies() -> list[dict]:
     """한국 기업 목록을 로드.
@@ -223,6 +240,10 @@ def main():
         ratios = fetcher.get_financial_ratios(symbol)
         metrics = fetcher.get_key_metrics(symbol)
         
+        # 4. TTM 데이터 조회
+        print("\n4. TTM 데이터 조회 중...")
+        ttm_data = fetcher.get_ttm_data(symbol)
+        
         # 결과 저장
         output_dir = 'data/financial_statements'
         os.makedirs(output_dir, exist_ok=True)
@@ -240,7 +261,8 @@ def main():
                     'ratios': ratios,
                     'metrics': metrics
                 },
-                'ltm_data': ltm_data
+                'ltm_data': ltm_data,
+                'ttm_data': ttm_data
             }, f, ensure_ascii=False, indent=2)
         
         print(f"\n데이터가 성공적으로 저장되었습니다: {output_file}")

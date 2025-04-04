@@ -104,6 +104,10 @@ def main():
         print("\nLTM 데이터 조회 중...")
         ltm_data = fetcher.get_ltm_data(symbol)
         
+        # 4. TTM 데이터 조회
+        print("\nTTM 데이터 조회 중...")
+        ttm_data = fetcher.get_ttm_data(symbol)
+        
         # 결과 저장
         output_dir = Path('data/financial_statements')
         output_dir.mkdir(parents=True, exist_ok=True)
@@ -116,7 +120,8 @@ def main():
                 'company_info': company,
                 'annual_data': annual_data,
                 'quarterly_data': quarterly_data,
-                'ltm_data': ltm_data
+                'ltm_data': ltm_data,
+                'ttm_data': ttm_data
             }, f, ensure_ascii=False, indent=2)
         
         print(f"\n데이터가 성공적으로 저장되었습니다: {output_file}")
