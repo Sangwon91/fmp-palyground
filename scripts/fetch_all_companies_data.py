@@ -21,6 +21,7 @@ from pathlib import Path
 from typing import List, Dict, Set
 from concurrent.futures import ThreadPoolExecutor
 from dotenv import load_dotenv
+from collections import defaultdict
 
 from fmp_playground.fetch_financial_data import (
     load_companies
@@ -51,63 +52,84 @@ def setup_argparser() -> argparse.ArgumentParser:
     return parser
 
 def get_processed_companies() -> Set[str]:
-    """이미 처리된 기업 목록을 가져옵니다.
+    """Get a set of company symbols that have already been processed.
     
-    Returns
-    -------
-    Set[str]
-        처리된 기업의 심볼 집합
+    Returns:
+        Set[str]: Set of processed company symbols
     """
     processed = set()
     data_dir = Path('data/financial_statements')
     
     if not data_dir.exists():
         return processed
-        
-    for file in data_dir.glob('*_*.json'):
-        # timestamp를 제외한 파일 이름에서 심볼 추출
-        symbol = file.name.split('_')[0].replace('_', '.')
-        processed.add(symbol)
-        
+    
+    for file_path in data_dir.glob('*.json'):
+        # 파일 이름에서 날짜 부분을 제외한 실제 심볼만 추출
+        parts = file_path.stem.split('_')
+        if len(parts) >= 2:
+            # 첫 번째 부분이 심볼의 기본 부분
+            symbol = parts[0]
+            # 두 번째 부분이 국가/거래소 코드
+            if not parts[1].isdigit():  # 두 번째 부분이 날짜가 아닌 경우에만
+                symbol = f"{symbol}.{parts[1]}"
+            processed.add(symbol)
+            
+    logger.info(f"Processed symbols example: {list(processed)[:5]}")
     return processed
 
-def distribute_companies(companies: List[Dict], processed: Set[str]) -> List[Dict]:
-    """국가별로 균형있게 기업을 분배합니다.
+def distribute_companies(companies: List[Dict], processed: Set[str], num_workers: int) -> List[List[Dict]]:
+    """Distribute companies among workers, balancing by country and skipping processed ones.
     
-    Parameters
-    ----------
-    companies : List[Dict]
-        전체 기업 목록
-    processed : Set[str]
-        이미 처리된 기업 심볼 집합
+    Args:
+        companies (List[Dict]): List of all companies
+        processed (Set[str]): Set of already processed company symbols
+        num_workers (int): Number of worker processes
         
-    Returns
-    -------
-    List[Dict]
-        처리할 기업 목록 (국가별로 분배됨)
+    Returns:
+        List[List[Dict]]: List of company lists, one for each worker
     """
-    # 국가별로 기업 분류
-    companies_by_country = {}
+    symbol_count = 0
+    unprocessed_count = 0
+    unprocessed_examples = []
+    companies_by_country = defaultdict(list)
+    
+    # Log total number of companies and processed companies
+    logger.info(f"Total companies: {len(companies)}")
+    logger.info(f"Already processed companies: {len(processed)}")
+    logger.info(f"Sample of processed companies (up to 5): {list(processed)[:5]}")
+    
     for company in companies:
-        if company['symbol'] in processed:
+        symbol = company['symbol']
+        symbol_count += 1
+        
+        # Check if company has been processed
+        if symbol in processed:
             continue
-        country = company.get('country', 'Unknown')
-        if country not in companies_by_country:
-            companies_by_country[country] = []
+            
+        unprocessed_count += 1
+        if len(unprocessed_examples) < 5:
+            unprocessed_examples.append(symbol)
+            
+        # Add unprocessed company to companies_by_country
+        country = company.get('country', 'UNKNOWN')
         companies_by_country[country].append(company)
     
-    # 각 국가의 기업을 섞음
-    for country in companies_by_country:
-        random.shuffle(companies_by_country[country])
+    logger.info(f"Total symbols processed: {symbol_count}")
+    logger.info(f"Unprocessed companies: {unprocessed_count}")
+    logger.info(f"Sample of unprocessed companies: {unprocessed_examples}")
     
-    # 국가별로 번갈아가며 기업을 선택
-    distributed = []
-    while any(companies_by_country.values()):
-        for country in list(companies_by_country.keys()):
-            if companies_by_country[country]:
-                distributed.append(companies_by_country[country].pop())
-            else:
-                del companies_by_country[country]
+    # Shuffle companies in each country for better distribution
+    for companies_list in companies_by_country.values():
+        random.shuffle(companies_list)
+    
+    # Distribute companies among workers in round-robin fashion
+    distributed = [[] for _ in range(num_workers)]
+    worker_idx = 0
+    
+    for country, companies_list in companies_by_country.items():
+        for company in companies_list:
+            distributed[worker_idx].append(company)
+            worker_idx = (worker_idx + 1) % num_workers
     
     return distributed
 
@@ -176,15 +198,18 @@ def main():
     logger.info(f"전체 기업 수: {len(companies)}")
     
     # 국가별로 균형있게 기업 분배
-    companies_to_process = distribute_companies(companies, processed)
-    logger.info(f"처리할 기업 수: {len(companies_to_process)}")
+    companies_to_process = distribute_companies(companies, processed, args.workers)
+    total_to_process = sum(len(worker_companies) for worker_companies in companies_to_process)
+    logger.info(f"워커당 처리할 기업 수: {[len(worker_companies) for worker_companies in companies_to_process]}")
+    logger.info(f"전체 처리할 기업 수: {total_to_process}")
     
     # 병렬 처리
     with ThreadPoolExecutor(max_workers=args.workers) as executor:
         futures = []
-        for company in companies_to_process:
-            future = executor.submit(fetch_company_data, company, api_key)
-            futures.append((future, company))
+        for worker_companies in companies_to_process:
+            for company in worker_companies:
+                future = executor.submit(fetch_company_data, company, api_key)
+                futures.append((future, company))
         
         # 결과 처리
         success = 0
@@ -202,7 +227,7 @@ def main():
             # 진행 상황 출력
             total = success + failure
             if total % 10 == 0:
-                logger.info(f"진행 상황: {total}/{len(companies_to_process)} "
+                logger.info(f"진행 상황: {total}/{total_to_process} "
                           f"(성공: {success}, 실패: {failure})")
     
     logger.info("\n처리 완료:")

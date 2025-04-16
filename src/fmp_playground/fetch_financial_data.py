@@ -1,6 +1,6 @@
 import json
 import os
-from typing import Any
+from typing import Any, List, Dict, Optional
 import requests
 from datetime import datetime
 from pathlib import Path
@@ -201,30 +201,21 @@ class FMPFinancialDataFetcher:
             'metrics': self._make_request(f'key-metrics-ttm/{symbol}')
         }
 
-def load_companies(country: str | None = None) -> list[dict]:
-    """모든 국가 또는 특정 국가의 기업 목록을 로드.
-    
-    Parameters
-    ----------
-    country : str | None, optional
-        국가 코드 (예: 'KR', 'US', 'JP', 'CN'), by default None
-        None인 경우 모든 국가의 기업 목록을 반환
-        
-    Returns
-    -------
-    list[dict]
-        기업 목록
-        
-    Examples
-    --------
-    # 모든 국가의 기업 목록 로드
-    >>> companies = load_companies()
-    
-    # 한국 기업만 로드
-    >>> kr_companies = load_companies('KR')
-    
-    # 미국 기업만 로드
-    >>> us_companies = load_companies('US')
+def load_companies(country_code: Optional[str] = None) -> List[Dict]:
+    """
+    Load list of companies from all countries or a specific country.
+
+    Args:
+        country_code (Optional[str]): Two-letter country code (e.g., 'KR', 'US', 'JP'). If None, load all companies.
+
+    Returns:
+        List[Dict]: List of company dictionaries containing information like symbol, name, exchange, etc.
+
+    Examples:
+        >>> # Load all companies
+        >>> companies = load_companies()
+        >>> # Load only Korean companies
+        >>> kr_companies = load_companies('KR')
     """
     companies = []
     assets_dir = Path('assets')
@@ -234,14 +225,15 @@ def load_companies(country: str | None = None) -> list[dict]:
         'KR': ['KR_KSC', 'KR_KOE'],  # KOSPI, KOSDAQ
         'US': ['US_NYSE', 'US_NASDAQ', 'US_AMEX'],  # NYSE, NASDAQ, AMEX
         'JP': ['JP_JPX'],  # Japan Exchange
-        'CN': ['CN_SHH', 'CN_SHZ']  # Shanghai, Shenzhen
+        'CN': ['CN_SHH', 'CN_SHZ'],  # Shanghai, Shenzhen
+        'HK': ['HK_HKSE']  # Hong Kong Exchange
     }
     
     # 파일 목록 필터링
-    if country:
-        if country not in country_exchanges:
-            raise ValueError(f"지원하지 않는 국가 코드입니다: {country}")
-        target_exchanges = country_exchanges[country]
+    if country_code:
+        if country_code not in country_exchanges:
+            raise ValueError(f"지원하지 않는 국가 코드입니다: {country_code}")
+        target_exchanges = country_exchanges[country_code]
         company_files = [f for f in assets_dir.glob('*_companies.json')
                         if any(f.stem.startswith(ex) for ex in target_exchanges)]
     else:
@@ -297,6 +289,7 @@ def find_company_by_symbol(symbol: str) -> tuple[dict, str]:
         '.T': 'JP',   # Tokyo Stock Exchange
         '.SS': 'CN',  # Shanghai Stock Exchange
         '.SZ': 'CN',  # Shenzhen Stock Exchange
+        '.HK': 'HK'  # Hong Kong Stock Exchange
     }
     
     # 미국 주식은 접미사가 없음

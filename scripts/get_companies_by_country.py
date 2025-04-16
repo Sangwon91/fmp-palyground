@@ -16,7 +16,8 @@ COUNTRY_EXCHANGES = {
     'US': ['NYSE', 'NASDAQ', 'AMEX'],
     'CN': ['SHH', 'SHZ'],
     'JP': ['JPX'],
-    'KR': ['KSC', 'KOE']
+    'KR': ['KSC', 'KOE'],
+    'HK': ['HKSE']  # 홍콩 거래소 추가
 }
 
 def get_stock_list() -> List[Dict]:
